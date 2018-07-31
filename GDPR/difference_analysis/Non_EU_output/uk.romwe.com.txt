@@ -1,0 +1,43 @@
+{{ ROMWE_W.template(info.carts.length, '{0} items in Bag') }}:
+Retail Price: {{info.originPrice.amountWithSymbol}}
+Sub Total: {{info.totalPrice.amountWithSymbol}}
+Up To 75% Off
+Beach Time
+Student Discount
+Return policy
+Return policy
+Return Conditions
+You have 60 days from the purchase date to decide if an item is right for you. We’ll gladly accept unworn, unwashed, or any defective merchandise purchased on romwe.com for return.
+Please note that the following items cannot be returned: bodysuits, lingerie & sleepwear, swimwear, jewelry, personal & health care, and accessories (except scarves, bags, and mermaid blankets). And please do not send your return to the address on your package. That is not our return address and will affect the processing of your return.
+We do not accept returned items that were sent back by you directly without checking with us first.
+How to Return
+Steps are easy to follow:
+1. Start your return by clicking here to submit a support ticket. Make sure our team has worked with you on the issue before you send the package.
+2. Securely pack the item(s) in a box or envelope of your choice.
+3. Please put your authorization number next to the Recipient name. Mail your return package using a traceable carrier.
+Refunds
+Most returns are processed within 10 business days after we receive your package. We’ll issue the refund to your Romwe wallet if we are not otherwise informed to refund to your payment account in advance. Wallet balance can be used on your next purchase or be withdrawn to your payment account. Once your refund has been issued, you will receive a confirmation email.
+Returning shipping charges are non-refundable (we do not accept packages returned using C.O.D. delivery).
+Note：The original shipping fee and insurance are non-refundable.
+Exchange
+Unfortunately, we are unable to process exchanges at the moment. We apologize for this inconvenience. If you have received an incorrect or defective item, please send your request to our customer service team, and we’ll get back to you within 24 hours.
+WHICH CATEGORIES DO YOU PREFER?
+Clothing
+TOP
+Password
+Verification has failed. Please try again.
+I agree to the Privacy Policy .
+I'd like to receive exclusive offers and news by Email or SMS.
+Create Account
+{{item.name}}
+SUBSCRIBE
+ABOUT
+Welcome!
+We use cookies to give you the best shopping experience. If you continue to use our services or create a new account, we will assume that you agree to our Privacy & Cookie Policy .
+WELCOME TO ROMWE UNITED KINGDOM SITE!
+WHY BUY FROM US?
+£3 OFF YOUR FIRST ORDER OVER £29
+SHOP NOW >>
+Shipping elsewhere? Visit our ROMWE's international site!
+We use cookies to give you the best shopping experience. If you continue to use our services or create a new account, we will assume that you agree to our Privacy & Cookie Policy .
+I Accept

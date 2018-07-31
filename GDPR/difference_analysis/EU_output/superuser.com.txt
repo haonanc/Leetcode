@@ -1,0 +1,228 @@
+Stack Exchange Network
+Stack Exchange network consists of 174 Q&A communities including Stack Overflow , the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+9 views
+Create a private folder in Android: set the SELinux attribute of a folder in external storage
+There are quite a few apps that require read and write access to the external storage, which gives them access to the whole /sdcard directory. But since that is also the only storage the user ...
+hyiltiz
+161112
+0
+votes
+1answer
+Dante383
+6
+0
+votes
+0answers
+d-b
+22219
+1
+vote
+0answers
+user21303
+93
+-6
+votes
+1answer
+computationalprince
+174
+2
+votes
+1answer
+46 views
+arcticsequoia
+133
+0
+votes
+0answers
+cguard995
+11
+1
+vote
+0answers
+107 views
+TechnoCat
+365
+0
+votes
+0answers
+alle_meije
+166110
+1
+vote
+0answers
+56 views
+alle_meije
+166110
+2
+votes
+0answers
+terry_wa
+111
+0
+votes
+1answer
+24 views
+Windows 10 privacy: How are apps inserted into the categories (camera, email, etc.) and then blocked?
+I am developing machine control software for machines of my company. The software is currently running under Windows 7 Pro SP1. Inside these machines, GigE cameras and USB cameras are used. Also, we ...
+Matthew
+1671112
+0
+votes
+1answer
+mrm
+11
+50
+votes
+1answer
+8k views
+87 views
+M209
+43
+1
+vote
+3answers
+160 views
+jack_Lif
+61
+-1
+votes
+2answers
+130 views
+Drew
+82931441
+0
+votes
+1answer
+Columnist
+1
+2
+votes
+1answer
+89 views
+TontyTon
+736
+1
+vote
+0answers
+50 views
+NSFeaster
+1186
+1
+vote
+1answer
+Piperman123
+61
+2
+votes
+1answer
+32 views
+CDove
+1,160110
+0
+votes
+0answers
+31 views
+user1032531
+58961334
+0
+votes
+1answer
+60 views
+uzii826
+31
+1
+vote
+1answer
+35 views
+securitydude5
+1061
+0
+votes
+2answers
+26 views
+OuzoPower
+617
+1
+vote
+1answer
+54 views
+J.Males
+61
+0
+votes
+0answers
+16 views
+Ivan
+2,664215280
+0
+votes
+0answers
+a.g.
+11
+1
+vote
+1answer
+Huckle
+2211416
+3
+votes
+1answer
+Matthias
+13316
+2
+votes
+1answer
+Patris
+1314
+0
+votes
+0answers
+HankCa
+1013
+-4
+votes
+2answers
+161 views
+niklas
+1165
+0
+votes
+0answers
+27 views
+secdave
+1
+4
+votes
+1answer
+user424955
+0
+votes
+0answers
+pylyf
+12
+1
+vote
+1answer
+d3vid
+6363936
+2
+votes
+4answers
+Hashim
+2,24062547
+1
+vote
+0answers
+172 views
+Oli
+61
+2
+votes
+1answer
+387 views
+philosopher
+387
+0
+votes
+1answer
+user257838

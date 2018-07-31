@@ -1,0 +1,57 @@
+Sunday May 6, 2018 1:01 PM PDT by Joe Rossignol
+Apple has updated its service policy for a limited number of iPhone X units that may be experiencing issues with Face ID.
+Apple Stores and Apple Authorized Service Providers are now authorized to perform a whole unit replacement for iPhone X units with Face ID issues, instead of a display repair, according to an internal document obtained by MacRumors.
+Apple Stores and Apple Authorized Service Providers have been advised to first run diagnostics on the iPhone X's rear camera and potentially repair that system if necessary to see if that resolves the problem. If the issues persist, then a whole unit replacement is now permitted, the document states.
+There appears to be some kind of link between failure of the iPhone X's rear camera and front TrueDepth system, although it's not entirely clear.
+The document in full reads:
+In order to provide the best customer experience, if a customer reports that their iPhone X is having Face ID issues, you may be able to resolve the issue with a rear camera repair. Run AST 2 on the customer’s device to check the camera. If the diagnostics find issue with the camera, perform the repair to see if the issue is resolved. If the issue is not resolved, perform a whole unit replacement instead of a same-unit display repair.
+Apple has not commented on this matter publicly, or launched any sort of official repair program, as these are internal guidelines.
+Affected customers can book an appointment with an Apple Authorized Service Provider or Apple Store via the Contact Apple Support page: iPhone → Repairs & Physical Damage → The Topic is Not Listed → Bring In For Repair. Following those steps also presents options to contact Apple by phone or email.
+12 weeks ago
+The fix for FaceID/front camera issues has never been a display repair for iPhone X... as the FaceID technology/front facing camera are not located on the display itself like previous phones.
+Well, I'm only going off what Apple wrote in its document.
+Also, an Apple Authorized Service Provider told me Face ID issues did require a display repair. I asked.
+Rating: 5 Votes
+12 weeks ago
+When it fails, does FaceID not work at all or is it much slower than usual to respond? I’m guessing the former.
+It will say “faceID not available. Try again later” setting it up and never go past that
+Rating: 3 Votes
+12 weeks ago
+If 16 million iPhone Xs were sold the last quarter, (according to the last financial statement) I wonder how many Face ID failures constitute as a "limited number"?
+Probably thousands. Enough for Apple to issue an updated policy but not big enough for a recall.
+Rating: 1 Votes
+12 weeks ago
+Anyone remember way back in Q3 2017 when "sensor changes" were made to "scale up production?" Is there a link? :apple:
+//www.macrumors.com/2017/10/25/apple-reduced-face-id-accuracy-iphone-x/
+Prompted apple  to respond and say it’s not true
+//www.macrumors.com/2017/10/25/apple-face-id-downgrad-claims-completely-false/
+Coincidence ............... I Think NOT.
+12 weeks ago
+If 16 million iPhone Xs were sold the last quarter, (according to the last financial statement) I wonder how many Face ID failures constitute as a "limited number"?
+The 16 million was according to an analysts prediction, not Apples financial statement ;)
+Apple do seem to replace whole units often for issues, probably easier and cheaper for them as they aren’t paying genius staff to fiddle with them.
+Rating: 1 Votes
+12 weeks ago
+Apple Stores and Apple Authorized Service Providers are now authorized to perform a whole unit replacement for iPhone X units with Face ID issues, instead of a display repair.
+The fix for FaceID/front camera issues has never been a display repair for iPhone X... as the FaceID technology/front facing camera are not located on the display itself like previous phones.
+Rating: 1 Votes
+I’ve had FaceID problems since launch.
+It works fine for a few weeks, then stops working / identifying me all together. It just  rejects and prompts me for my passcode almost instantly.
+Resetting/retraining Face ID doesn’t fix it, but a full reset/restore does. I’ve stopped using it altogether due to the hassle.
+(Anyone else had this same issue?)
+I guess I will make a appointment and see what’s happens.
+I’ve had mine since late November and I haven’t reset the phone or Face ID once, so by your description it’s worth going to the Apple Store.
+Rating: 1 Votes
+12 weeks ago
+Fortunately the replacement came with 11.1 and was manufactured in November so it isn’t even a refurb. But I wouldn’t care about that at this point one way or another, just wanted a jailbreakable version and got lucky
+I haven’t done it since iOS 6. Most of them have been semi-tethered and  I’m not sure we’ll ever see another untethered JB ever again after 9.1. The last iPhone to have an untethered JB was the 6S! Unless there is some major breakthrough soon, that’s going to be 3 years. I remember the days when nearly every point release or at last major release had one really quickly. Jailbreakme was even more remarkable by being able to do it through Safari.
+I wonder whether it has truly become almost impossible or if it’s mostly due to Apple’s bounty program. There is no question that it takes much more skill and effort than ever before whatever the reason is.
+Rating: 1 Votes
+12 weeks ago
+so I guess now is not the time to buy an iPhone X. I was thinking about upgrading to it from a 7plus but I think it might be better to wait until the next version comes out.
+Rating: 1 Votes
+12 weeks ago
+I've had my X since launch day.  Not only has my FaceID never had issues, it's become quite resilient to things I would consider challenging.  It's unlocked my phone while: yawning, brushing my teeth, with my polarized Maui Jim sunglasses on, with any of my glasses in fact.  That coupled with the integration into keychain/pws/etc means auto-loading credentials for all sorts of sites/apps/etc is as natural as continuing to look at the phone while you do stuff.
+It's fast, works exceptionally well, and I don't miss TouchID even a little.
+That’s nice. Thank you for being a Beta Tester.  Face ID .v2 on the way for everyone else. :apple:
+MacRumors attracts a broad audience         of both consumers and professionals interested in         the latest technologies and products. We also boast an active community focused on purchasing decisions and technical aspects of the iPhone, iPod, iPad, and Mac platforms.

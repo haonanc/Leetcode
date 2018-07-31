@@ -1,0 +1,132 @@
+To stay signed in, click continue
+You will be logged out of your account in 2 minutes
+Continue
+Save and manage your pet searches and email communications.
+Learn helpful pet care tips and receive expert advice.
+Get involved and help promote adoptable pets in your area.
+Close this dialog
+Petfinder currently includes pets and adoption organizations from the regions listed above. Please check back in the future for any potential expansion.
+Postal Code
+Email
+address to log in
+Password
+To keep your account secure, your new password must be at least 8 characters long and contain a minimum of 3 of the following: 1 number, 1 lowercase letter, 1 uppercase letter or 1 special character.
+Password Requirements
+Must contain at least 3 out of 4 of these:
+Checkmark
+Dog Care
+Cat Care
+All Pet Care
+Shelters & Rescues
+Helping Pets
+©2018 Petfinder.com
+All trademarks are owned by Société des Produits Nestlé S.A., or used with permission.
+icon-404
+icon-alertBell_checked
+icon-alertBell
+icon-binoculars
+devices
+icon-resources
+icon-shelter
+icon-shelter
+icon-shelter
+icon-paw_colorPrimary
+icon-paw_colorWhite
+icon-paw
+icon-404
+icon-404
+icon-account
+icon-account_colorPrimary
+icon-addAnimal
+icon-addUser
+icon-alert
+icon-arrowDownSmall
+icon-arrowRightSmall
+icon-article
+icon-calendar
+icon-check_colorDark
+icon-check_colorPrimary
+icon-check_colorWhite
+icon-check
+icon-chevronDown_colorDark
+icon-chevronDown_colorPrimary
+icon-chevronDown_colorDark
+icon-chevronDown
+icon-chevronLeft_colorDark
+icon-chevronLeft_colorPrimary
+icon-chevronLeft_colorWhite
+icon-chevronLeft
+icon-chevronRight_colorDark
+icon-chevron_colorPrimary
+icon-chevron_colorWhite
+icon-chevronRight
+icon-chevronUp_colorDark
+icon-chevronUp_colorPrimary
+icon-chevronUp_colorWhite
+icon-chevronUp
+icon-circleAlert
+icon-circleBorderPlay
+icon-circleBorderPlus_colorPrimaryS2
+icon-circleBorderPlus
+icon-circleBorderQuestion
+icon-circleCheck_colorPrimaryS1
+icon-circleCheck
+icon-circleDeleted
+icon-cicleDownArrow
+icon-circleEdit
+icon-circleMinus_colorPrimaryS1
+icon-circleMinus
+icon-ciclePlus
+icon-cicleQuestion
+icon-circleTransferred
+icon-circleUndeleted
+icon-close_colorDark
+icon-close_colorPrimary
+icon-close_colorWhite
+icon-close_colorWhite
+icon-close
+icon-dashboard
+icon-edit
+icon-email
+icon-events
+icon-expand
+icon-facebook
+icon-favorite
+icon-filter
+icon-gear
+icon-hours
+icon-instagram
+icon-link
+icon-location_colorPrimary
+icon-location
+icon-lock
+menu
+menu
+icon-pause
+icon-paw
+icon-phone
+icon-photo
+icon-pinterest
+icon-play
+icon-print
+icon-private
+icon-reporting
+icon-rss
+icon-save
+icon-search
+icon-search
+icon-share
+icon-share
+icon-share
+icon-share_colorWhiteStrokeDark
+icon-share_outline
+icon-share
+icon-sizeExtraLarge
+icon-sizeLarge
+icon-sizeMedium
+icon-sizeSmall
+icon-trash
+icon-twitter
+icon-video
+icon-view
+icon-youtube

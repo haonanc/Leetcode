@@ -1,0 +1,96 @@
+Last Update: May 24, 2018
+ø. It's All about Transparency
+ 
+ø.1 First time access and registration
+1 - You download the Wafer app and You launch it for the first time; You are asked to select Your phone Country Code and insert Your phone number, before tapping on "Next";
+2 - Wafer uses Your phone number to send You a code via SMS (the Wafer Code) and asks You to input it at the second page of the in-app registration; this is done to ensure that You are the true owner of the phone number You are using to register onto Wafer. Additionally, on that same registration page, You are asked to grant Your explicit consent to the Terms of Service and Privacy Policy, as well as to willingly state that You are at least 16 years old. Should all the above pieces of information be properly provided, You shall proceed to the third registration page, by tapping on "Join Wafer!". When tapping on "Join Wafer!", Your Wafer Account will begin to be created.
+3 - The third registration page is necessary for You to provide Your Wafer Name (it does not need to be unique, it does not need to be Your real name, and can certainly be a nickname or a pseudonym) while Your profile photo is optional. Additionally You shall be asked to grant Wafer access to Your phone address book; Wafer is a messaging application and cannot function without having access to Your phone number and Your contacts' phone numbers. After having provided Your Wafer Name, You shall be able to tap on "Start" and access Wafer. You will not be prompted to go through the registration for any other subsequent access to the Wafer app.
+ 
+ø.2 Sending a message to any other Wafer user
+1 - In Wafer You have the possibility to send free messages containing multimedia files to other Wafer users at any time.
+ 
+ø.3 Sending a message to any contact who is not on Wafer
+1 - In Wafer You have the possibility to send free messages containing multimedia files to Your contacts who are not on Wafer at any time.
+ 
+ø.4 Deleting a message 
+1 - When using Wafer You have the possibility to delete messages at any time, by simply tapping and holding on a message and selecting the option "Delete this Message".
+ 
+ø.5 Initiating a free call with any other Wafer user as well as non-Wafer user
+1 - In Wafer You have the possibility to initiate free calls with other Wafer users as well as with non-Wafer users at any time.
+ 
+ø.6 Sharing a message on Facebook and/or Twitter 
+1 - In Wafer You have the possibility to share messages on Facebook and/or Twitter at any time.
+ 
+ø.7 Deleting Your Wafer Account 
+1 - In Wafer You have the possibility to delete Your Wafer Account at any time, by accessing the settings and selecting the option "Delete Your Wafer Account".
+ 
+ø.8 Usage analytics
+1 - In Wafer we monitor aggregated user statistics, such as number of registered users, retention rates, total number of exchanged messages, total number of links created, in order to improve the user experience on both the client side and the server side. 
+ 
+ø.9 Commercial data mining
+1 - In Wafer You can rest assured that no commercial data mining is performed on any of Your data or content.
+Data policy: N/A
+1. Your Acceptance
+Before You start You should be advised that by using Wafer Messenger (“Wafer”), 
+(the “Company Website”) and
+(the “Service Website”) You fully understand, acknowledge  and consent to the terms of this privacy policy (the “Privacy Policy”) and  Wafer Terms of Service, as may be amended from time to time. Wafer Inc. (the “Company”) is the owner and operator of Wafer, the Company Website and the Service Website, and you (“You”), are considered as a user of one or many of the features of Wafer and/or the Company Website and/or the Service Website (collectively referred as the “Service”).
+This Privacy Policy will explain to You how the Company collects, uses and shares information received from You. It is important for You to understand how this happens and how You may control it, therefore please read this Privacy Policy attentively.
+ 
+ 
+ 
+ 
+“Shared Information” shall mean information about You or relating to You that is voluntarily shared through using the Service, including Submissions that You submit through the Service, any Submissions from others that You re-submit, including Log Data associated with these Submissions and the information about You (including Log Data) that others who are using the Services share about You.
+“Submissions” shall mean Your nickname that You use to access the Service (the “Wafer Name”), profile photos and multiple other communications in the form of sketches, photos, stickers, texts, audio messages, videos, and/or any combinations of the above, in addition to like instances, as well as the automatic submission of user’s “last seen” status and “current activity” status. These Submissions may be hosted, and/or published as part of the Service, and may be visible to other users of the Service; in addition, the Submissions may be seen by non-users of the Service, should the Submissions be shared.
+ 
+2. How Does the Company Collects, Uses and Shares Information about You
+You hereby understand, acknowledge and agree that You will be solely responsible for the Personal Information and any other content You share through the Service and should be aware that when You voluntarily disclose Personal Information using the Service such information may be generally accessible, and may be seen, collected and used by anyone who uses the Service. This may result in unsolicited messages from third parties, and such messages are beyond Company’s control.
+The Company shall collect and use information about You exclusively for improving Your experience when using the Service, however the Company does not perform any form of commercial data mining on the content of your Submissions and shall not disclose Your Personal Information or any other content which You disclose through the Service. You are however encouraged to exercise discretion when disclosing Personal Information about Yourself through the Service.
+In addition, it is important to note that the ubiquitous nature of the communications made by You using the Service may put a portion of Your Personal Information in the hands of third parties that the Company cannot control. Once Your Personal Information entered into a public domain, such information is no longer considered as private. This means that even after You instruct the Company to terminate Your user account, or Your choose to do so directly through the app Wafer, Your Personal Information and other content You shared through the Service might still be publicly available.
+The Company archives permanently only the Personal information and those Submissions that the users deliberately choose to share on Facebook or Twitter. Other Submissions are never archived permanently and are solely archived in their encrypted form for a period of 30 days; this is done in order to allow You to retrieve them should You wish to do so within a reasonable timeframe. In addition, Submissions only exist on the devices of the users. In any case, no archived information is ever subject to any commercial analysis. Fact, the Company has no means to extract any commercial information from archived data.
+ 
+2.1 Information about Your Contacts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.2 Log File Information
+ 
+2.3 Online Status and Seen Status
+ 
+2.4 Out of Wafer Communications
+Wafer allows You to reach Your friends even if they do not have their Wafer User Account. This means that the information and content that You share through the Service can be broadly and instantly shared publicly with all Wafer users, as well as with any third parties which do not have their Wafer User Account (the “Out of Wafer Communications”). The information and content that You deliberately share through Wafer may thus become public immediately when You share it with a contact who does not have a Wafer User Account, and could be seen by a wider public. In addition, any information and/or content can be shared on external social platforms and/or external online tools and thus may be publicly visible to any third party according to Your settings on those social platforms and/or external online tools.
+ 
+2.5 Automatically Collected Data
+The Company may use cookies on the Service Website and/or the Company Website, this is of course only if necessary and if You haven’t deleted them from Your computer or from Your mobile device. A cookie is a piece of text that is stored by Your browser on Your computer or on Your mobile device, through which the website can remember things about Your previous visits and online activities. The Company uses the cookies in order to improve the layout, functionality, and content of the Service, and for other purposes of improving Your experience of using the Service (the “Automatically Collected Data”). You should be aware that cookies and similar technology may enable the Company to relate Your use of the Service to other information about You, including your Personal Information. For Your knowledge, all modern browsers allow You to change Your cookies settings. These settings are typically found in the “options” or “preferences” menu of Your browser.
+ 
+3. Transfer of Your Personal Information to Other Jurisdictions 
+ 
+4. Updates to Your Personal Information
+Subject to applicable laws and regulations, You may have the right to request to receive a copy of and make any corrections to Your Personal Information which are held by the Company. You may also choose at any time to deactivate Your User account, directly from the Wafer app settings.
+ 
+5. Third-Party Sites and Platforms 
+ 
+6. Sharing and Disclosure of Personal Information with Third-Parties
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In order to provide, maintain and/or improve the Service, the Company may sometimes, if necessary, share Your Personal Information with third-party service providers and/or agents. The Company will always require these third-parties to take appropriate organizational and technical measures to protect Your Personal Information and to observe the relevant legislation and the terms of this Privacy Policy and Terms of Service. Please be advised that the third-party service providers may be located, and use and store Your Personal Information, outside of Your jurisdiction for the purpose of providing the Service. Consequentially, You consent to the third-party use, sharing and transfer of Your Personal Information (both inside and outside of Your jurisdiction).
+The Company may from time to time ask You to provide information about your experiences, which will be used to measure and improve quality. You are at no time under any obligation to provide any of such data. Any and all information which is voluntarily submitted in feedback forms or any survey that You accept to take part in is exclusively used for the purposes of reviewing this feedback and improving the Service.
+The Company may contact You to send You messages about faults and service issues. The Company reserves the right to use email, Company Website and/or Service Website, Wafer or SMS to notify You of any eventual claims related to the use of our software, websites and/or products, including without limitation claims of violation of third party rights.
+ 
+7. Children’s Privacy
+ 
+8. Security of Your Personal Information
+ 
+9. Changes to the Privacy Policy
+ 
+10. Contact Information
+Please direct all questions and requests in connection with this Privacy Policy via e-mail to the Company, by using the contact form on this website.

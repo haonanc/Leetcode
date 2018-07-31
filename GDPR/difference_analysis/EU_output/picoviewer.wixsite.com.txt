@@ -1,0 +1,4 @@
+Pico Viewer does not collect any personal information.
+In addition, this app does not have permission to access the Internet.
+To check the permissions of the app, go to the app's page in the Store.
+Privacy Policy

@@ -1,0 +1,255 @@
+Date of Last Revision:  September 30, 2010
+Welcome to the Slader web site.  These Slader Web Site Terms of Use (the "Agreement") constitute a legally binding agreement made by and between Slader (collectively, "we", "us", or "Slader") and the users of our web site, whether personally or on behalf of an entity ("you").  This Agreement governs your use of the Slader web site and the services, products, tools, and information offered by Slader on the Web Site (the "Services"), so please read it carefully.
+PLEASE NOTE THAT BY ACCESSING OR USING ANY PART OF THE WEB SITE OR THE SERVICES, YOU AGREE THAT YOU HAVE READ, UNDERSTAND AND AGREE TO BE BOUND BY THIS AGREEMENT, INCLUDING THE DISPUTE RESOLUTION PROCEDURE.  IF YOU DO NOT AGREE TO BE SO BOUND, DO NOT ACCESS OR USE THE WEB SITE OR THE SERVICES.  SLADER RESERVES THE RIGHT TO MAKE CHANGES TO THIS WEB SITE OR THE AGREEMENT AT ANY TIME.  YOUR CONTINUED USE OF THE WEB SITE AND/OR THE SERVICES CONSTITUTES ASSENT TO ANY SUCH CHANGES TO THE WEB SITE AND TO ANY NEW PROVISIONS OF THIS AGREEMENT THAT MAY BE POSTED ON THE WEB SITE IN THE FUTURE.
+Using the Web Site.
+Eligibility.  Except as expressly provided below, certain services on and features of the Web Site may only be used by, and registered user status is limited to, individuals who are thirteen (13) years of age or older ("Registered Users").  Without limitation, those less than thirteen (13) years old are prohibited from becoming Registered Users.  References in this Agreement to "users" include Registered Users, but Registered Users does not include unregistered users.
+User Registration.  To become a Registered User, you must create an account with Slader through the online registration process on the Web Site.  In creating an account, you must provide Slader with accurate and complete registration information, as prompted in the registration form.  You must promptly notify Slader if any of this information changes.  If you fail to provide or update this information, Slader may terminate your right to use the Web Site.  You agree that Slader may communicate with you by e-mail using the address that you have provided.  Slader is not responsible for communications we attempt to make via e-mail that you do not receive because the e-mail address we have on file is incorrect or is no longer being used by you.
+Passwords.  When you open an account to become a Registered User, you will be asked to choose a password.  You must keep your password confidential.  You will be responsible for all uses of your password and account, including, without limitation, any use by any unauthorized third party.  You must notify Slader immediately if you believe your password or account has been obtained, or may be accessed or used by, anyone other than you.  In addition, you must notify Slader immediately if you become aware of any other breach or attempted breach of the security of the Web Site.  For security purposes, Slader recommends that you change your password often.  If you request support from Slader you hereby grant us permission to use your password to access your account.
+Displays of Your Information.  Your name, username, and profile picture will be displayed in connection with any posts you make to the Web Site, and you hereby agree to such use of that identifying information.
+Your Content.
+License.  By posting, storing or transmitting any content (including, but not limited to, any question, answer, solution to a problem, problem, message, drawing, picture, or any other material of any type) on or to the Web Site, you hereby: (i) grant Slader, and represent and warrant that you have the right to grant, a perpetual, worldwide, non-exclusive, royalty-free, fully paid up, transferable, sublicensable, right and license to use, copy, display, perform, create derivative works from, distribute, have distributed, transmit and sublicense such content in any form, in all media now known or hereinafter created, anywhere in the world, for any purpose, commercial, advertising, or otherwise, and (ii) agree that the content is subject to being changed, rejected, or deleted without notice or explanation to you.  You hereby irrevocably waive any claims based on moral rights, if any.
+Objectionable Content.  Due to the amount of user content, Slader may not have the ability to control the nature of the content presented by users on or through the Web Site.  You are solely responsible for your interactions with other users of the Web Site and any content that you post.  Slader is not and will not be liable for any damage or harm resulting from any of the Web Site' users' content or your interactions with other users of the Web Site.  Slader reserves the right, but has no obligation, to monitor interactions between you and other users of the Web Site and to take any other action to restrict access to or the availability of any material we or another user of the Web Site may consider to be obscene, lewd, lascivious, violent, harassing, defamatory, infringing, abusive, inflammatory, vulgar, fraudulent, invasive of privacy or publicity rights, hateful, disruptive, or racially, ethnically or otherwise objectionable (including, without limitation, because it violates this Agreement).
+Prohibited Content.  You may not post, submit or transmit any content that: (i) you know or reasonably should know is false or misleading; (ii) is libelous, defamatory or slanderous; (iii) advocates the violent overthrow of the government of the United States; (iv) incites, encourages or threatens immediate physical harm against another; (v) presents an immediate and genuine danger to another person or entity; (vi) violates any applicable law, regulation, or rule; (vii) is of the type described in the immediately preceding subsection; or (viii) does not directly relate to the particular area of the Web Site where content will be posted.
+User Conduct.
+In, or as a result of, your use of the Web Site and the Services, you may not: (i) infringe any patent, trademark, trade secret, copyright, right of publicity, or other right of any party, or upload, post, transmit, share, store or otherwise make publicly available on the Web Site any private information of any third party or any information that would encourage or provide instructions for an unlawful activity; (ii) disrupt or interfere with the security or use of the Services, the Web Site, or any web sites linked to the Web Site (such as misspelling or altering words); (iii) interfere with or damage the Web Site or Services, including, without limitation, through the use of viruses, cancel bots, Trojan horses, harmful code, flood pings, denial of service attacks, packet or IP spoofing, forged routing or electronic mail address information or similar methods or technology; (iv) attempt to use another user's account, impersonate another person or entity, misrepresent your affiliation with a person or entity, including (without limitation) Slader, federal, state, or municipal government, or a political candidate; or create or use a false identity; (v) attempt to obtain unauthorized access to the Web Site or portions of the Web Site that are restricted from the access granted to you; (vi) engage, directly or indirectly, in transmission of spam, chain letters, junk mail or any other type of unsolicited solicitation; (vii) collect, manually or through an automatic process, information about other users (including e-mail addresses or other contact information) without their express consent or other information relating to the Web Site or the Services; (viii) use any meta tags or any other hidden text utilizing Slader's name, trademarks, or product or service names in any manner and in any place; (ix) advertise, offer to sell, or sell any goods or services, engage in any commercial activity, or solicit donations of any kind; (x) engage in any activity that interferes with any third party's ability to use or enjoy the Web Site or Services; (xi) upload, post, transmit, share, store or otherwise make available any videos other than those you have taken personally, are of a personal nature that contain images of people you know personally and who have consented to being in the video, and which are original art or animation (including any audio or music that is part of the video) created by you; (xii) attempt to reverse engineer, decompile, translate, or affect in any way any computer code or item on or related in any way to the Web Site; or (xiii) assist any third party in engaging in any activity prohibited by this Agreement.
+Intellectual Property Rights.
+Copyright.  All materials on the Web Site and used in the Services, including without limitation, the Slader logo, designs, text, graphics, information, data, images, audio, video, applications, software, metadata, compilations, graphical user interfaces, other files, and the selection, arrangement and organization thereof are either owned by Slader or are the property of Slader's suppliers or licensors.  No Web Site content may be modified, copied, distributed, framed, reproduced, republished, downloaded, scraped, displayed, posted, transmitted, or sold in any form or by any means, in whole or in part, without our prior written permission, except that the foregoing does not apply to your own user content (as described above in the "Your Content" section) that you legally post on the Web Site.  Provided that you are eligible to use the Web Site, you are granted a limited license to access and use the Web Site and the Services and to download or print a copy of any portion of the Web Site's content to which you have properly gained access solely for your personal, non-commercial, informational use, provided that you do not alter or delete any trademark, copyright, or other proprietary notices.  Except for your own user content, you may not upload or republish our Web Site content on any Internet, Intranet or Extranet site or use the information in any other database or compilation, and any other use of our Web Site content is strictly prohibited.  Your license is subject to this Agreement and does not permit use of any data mining, robots, scraping or similar data gathering or extraction methods.  Any use of the Web Site or the Services beyond the scope of the license granted above is prohibited.  Copyright © 2010 Slader.  ALL RIGHTS RESERVED.
+Trademarks.  Slader, the Slader logo, and the other Slader product names, tag lines, logos, page headers, custom graphics, button icons, and scripts shown on the Web Site are trademarks or trade dress of Slader.  Any use by you of such trademarks and trade dress is for the sole benefit of Slader and all goodwill generated by such use will inure to Slader.  If you refer to Slader's trademarks or logos, you must include appropriate attribution to Slader.  All other trademarks, trade names and the like that appear on the Web Site or in the Services are the property of their respective owners.  You may not use (including as part of a domain name) any of these trademarks, trade dress, or trade names without express permission.
+Ownership and Use.  Slader retains ownership of its intellectual property rights and you do not obtain any rights therein by virtue of this Agreement or otherwise.  You have no right to use, copy, display, perform, publish, create derivative works from, create new works or abstracts from, distribute, have distributed, transmit, or sublicense materials or content available on the Web Site or through the Services, except as expressly set forth in this Agreement.  Notwithstanding the foregoing, you may use the content and materials on our Web Site and available through our Services in the normal course of your use of the Web Site and the Services. You may not use any third-party intellectual property without the express written permission of the applicable third party, except as permitted by law.
+Your Content.  Except for the material described in the "Suggestions" section below, to which we will obtain ownership, Slader will not acquire an ownership interest in the materials you post, input or submit to the Web Site but will acquire the non-exclusive license as set forth in Section 2.
+Linking and Framing; Links to Other Site.
+You may create a plain text hyperlink to Slader's Web Site provided that neither you nor the link portrays Slader or any of its products and services in a false or disparaging manner or suggests sponsorship, affiliation or endorsement by or with Slader.  Slader may revoke this permission at any time for any reason upon notice to you.  You may not "frame," inline link, or similarly display any Slader content or property, including, without limitation, the Web Site.  You may not use any Slader logo or other of its trademarks as part of the link without express written permission.  Your use of any web sites that are linked to the Web Site are governed by those sites' terms of use and privacy policies.  Slader makes no representations or warranties regarding those sites and their products, services, or content, and is not responsible in any way for your use of those sites.
+DMCA Copyright Policy and Copyright Agent.
+Slader respects the intellectual property rights of others and expects its users to do the same.  Slader may remove content that in its sole discretion appears to infringe the intellectual property rights of others.  In addition, Slader, in its sole and absolute discretion, may terminate the accounts of users who infringe the intellectual property rights of others.  If you believe that a user of the Web Site or the Services has infringed your intellectual property rights, please notify Slader's Copyright Agent, and provide the following information: (a) a physical or electronic signature of the person authorized to act on behalf of the owner of the intellectual property right; (b) an identification of the intellectual property claimed to have been infringed; (c) a detailed description of the material that you claim is infringing, so that we may locate it, including the URL where the infringing material appears; (d) your address, telephone number, and email address; (e) a statement by you that you have a good faith belief that the allegedly infringing use is not authorized by the intellectual property right's owner, its agent, or the law; and, (f) a statement by you, made under penalty of perjury, that the foregoing information is accurate and that you are authorized to act on behalf of the owner of the intellectual property rights involved.
+Slader's Copyright Agent is and can be reached at:
+Copyright Agent             Slader Customer Relations             199 Lafayette Street, Suite 3B             New York, NY 10012             USA             Phone: 212-625-4884             Email: support@slader.com
+Representations and Warranties.
+By Each Party.  Each party represents and warrants to the other party: (i) that it has the full power and authority to enter into and perform its obligations under this Agreement; (ii) the assent to and performance by it of its obligations under this Agreement do not constitute a breach of or conflict with any other agreement or arrangement by which it is bound, or any applicable laws, regulations or rules; and (iii) this Agreement constitutes legal, valid and binding obligations of the parties executing or assenting to this Agreement, enforceable in accordance with its terms and conditions.
+By You.  You represent and warrant to Slader that: (i) you will not infringe the patent, copyright, trademark, trade secret, right of publicity or other intellectual property or proprietary right of any third party in your use of the Web Site or the Services; (ii) you will comply with all applicable laws, rules and regulations in your use of the Services and the Web Site, including this Agreement; (iii) you understand that the Web Site may be used only for informational purposes and learning assistance, and that the Web Site's content may not be used to satisfy homework or any other class requirements; and (iv) you understand that the Web Site may contain incorrect information (including, but not limited to problem solutions), or that information on the Web Site may not be shown in a manner that conforms to that desired by instructors, problem creators, or solution providers.
+Indemnification.
+You agree to hold Slader and its employees, representatives, agents, attorneys, affiliates, directors, officers, managers and shareholders (the "Indemnified Parties") harmless from any damage, loss, cost or expense (including without limitation, attorneys' fees and costs) incurred in connection with any third-party claim, demand or action ("Claim") brought or asserted against any of the Indemnified Parties: (i) alleging facts or circumstances that would constitute a breach of any provision of this Agreement by you or, (ii) arising from, related to, or connected with your use of the Web Site or the Services.  If you are obligated to provide indemnification pursuant to this provision, Slader may, in its sole and absolute discretion, control the disposition of any Claim at your sole cost and expense.  Without limiting the foregoing, you may not settle compromise or in any other manner dispose of any Claim without the consent of Slader.
+DISCLAIMERS, EXCLUSIONS AND LIMITATIONS.
+DISCLAIMER OF WARRANTIES.  SLADER PROVIDES THE WEB SITE AND SERVICES ON AN "AS IS" AND "AS AVAILABLE" BASIS.  SLADER DOES NOT REPRESENT OR WARRANT THAT THE WEB SITE OR SERVICES OR THEIR USE: (i) WILL BE UNINTERRUPTED; (ii) WILL BE FREE OF DEFECTS, INACCURACIES OR ERRORS; (iii) WILL MEET YOUR REQUIREMENTS; OR (iv) WILL OPERATE IN THE CONFIGURATION OR WITH OTHER HARDWARE OR SOFTWARE YOU USE.  SLADER MAKES NO WARRANTIES OTHER THAN THOSE MADE EXPRESSLY IN THIS AGREEMENT, AND HEREBY DISCLAIMS ANY AND ALL IMPLIED WARRANTIES, INCLUDING WITHOUT LIMITATION, WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY AND NONINFRINGEMENT.
+THIRD PARTY SERVICES.  THE THIRD-PARTY LINKS, SERVICES, GOODS, RESOURCES AND INFORMATION THAT SLADER PROVIDES ON OR MAKES AVAILABLE THROUGH THE WEB SITE, INCLUDING, WITHOUT LIMITATION, THOSE AVAILABLE THROUGH THIRD-PARTY ADVERTISEMENTS, ARE NOT CONTROLLED BY SLADER.  ACCORDINGLY, SLADER MAKES NO WARRANTIES REGARDING SUCH THIRD-PARTY SERVICES, RESOURCES, AND INFORMATION, INCLUDING WITHOUT LIMITATION, WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, AND NON-INFRINGEMENT, AND WILL NOT BE LIABLE FOR YOUR USE OF OR RELIANCE ON SUCH THIRD-PARTY SERVICES, RESOURCES OR INFORMATION.
+EXCLUSION OF DAMAGES.  SLADER WILL NOT BE LIABLE TO YOU OR TO ANY THIRD PARTY FOR ANY CONSEQUENTIAL, INCIDENTAL, INDIRECT, PUNITIVE OR SPECIAL DAMAGES (INCLUDING DAMAGES RELATING TO LOST PROFITS, LOST DATA OR LOSS OF GOODWILL) ARISING OUT OF, RELATING TO, OR CONNECTED WITH, THE USE OF THE WEB SITE OR SERVICES, BASED ON ANY CAUSE OF ACTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+LIMITATION OF LIABILITY.  IN NO EVENT WILL SLADER'S LIABILITY IN CONNECTION WITH THIS AGREEMENT, THE WEB SITE, OR THE SERVICES EXCEED $500.
+Force Majeure.
+Slader will not be liable for failing to perform under this Agreement by the occurrence of any event beyond its reasonable control, including, without limitation, a labor disturbance, an Internet outage or interruption of service, a communications outage, failure by a service provider to Slader to perform, fire, terrorism, natural disaster or war.
+Arbitration.
+All disputes arising out of or relating to this Agreement (including its formation, performance or alleged breach) or your use of the Web Site or the Services will be exclusively resolved under confidential binding arbitration held in San Diego County, California before and in accordance with the Rules of the American Arbitration Association.  The arbitrator's award will be binding and may be entered as a judgment in any court of competent jurisdiction.  To the fullest extent permitted by applicable law, no arbitration under this Agreement will be joined to an arbitration involving any other party subject to this Agreement, whether through class arbitration proceedings or otherwise.  Notwithstanding the foregoing, Slader will have the right to seek injunctive or other equitable relief in state or federal court located in San Diego County, California to enforce these terms or to prevent an infringement of a third party's rights.  In the event equitable relief is sought, each party hereby irrevocably submits to the personal jurisdiction of such court.
+Changes to the Web Site or Service.
+Slader may, in its sole discretion, change, modify, suspend, make improvements to or discontinue any aspect of the Web Site or the Services, temporarily or permanently, at any time without notice to you, and Slader will not be liable for doing so.
+Termination.
+Slader will have the right in its sole discretion, for any reason or no reason at all, without notice or liability to you or any third party, to terminate your account or your access to the Web Site or Services, with or without cause.  Such reasons may include, without limitation: (i) your breach of any part of this Agreement; (ii) your violation of the rights of any third party; or (iii) your account becoming inactive for an extended period of time.  You may terminate your profile or your account for any reason at any time by providing notice to Slader of your intention to do so, subject to this Agreement.  If your account is terminated, Slader may, in its sole discretion, delete any comments, web sites, files, graphics or other content or materials relating to your use of the Web Site or Services on Slader's servers or otherwise in its possession or control, without providing you with a copy of the deleted materials.  termination, you may not be permitted to use the Web Site or the Services without first obtaining Slader's consent.  If your account or your access to the Web Site or Services is terminated, Slader reserves the right to exercise whatever means it deems necessary to prevent unauthorized access to the Web Site or the Services, including, but not limited to, technological barriers, IP mapping, and direct contact with your Internet Service Provider.
+Notices and Electronic Communications.
+All notices required or permitted to be given under this Agreement will be in writing and delivered to the other party by any of the following methods: (i) hand delivery, (ii) certified U.S. mail, return receipt requested, postage prepaid, (iii) overnight courier, or (iv) electronic mail.  If you give notice to us you must use the address shown in Section 7.  If Slader provides notice to you, we will use the contact information provided by you to us.  All notices will be deemed received as follows: (i) if by hand-delivery, on the date of delivery, (ii) if by delivery by U.S. mail, on the date of receipt appearing on a return receipt card, (iii) if by overnight courier, on the date receipt is confirmed by such courier service, or (iv) if by electronic mail, 24 hours after the message was sent, if no "system error" or other notice of non-delivery is generated.  Each party agrees that any notice that it receives from the other party electronically satisfies any legal requirement that such communications be in writing.
+Suggestions.
+You agree that any suggestions, ideas, product uses and potential uses, product ideas, feedback or other information about the Web Site, the Service, or our products or services ("Suggestions"), provided by you to us are non-confidential to you and shall become by virtue of the transmission to us, to the Web Site, or to the Service the sole property of Slader.  We will own all of the rights, exclusively, including all intellectual property rights, and shall be entitled to the unrestricted use and dissemination of these Suggestions for any purpose, commercial or otherwise, without acknowledgment or compensation to you.
+Limitation of Actions.
+You acknowledge and agree that, regardless of any statute or law to the contrary, any claim or cause of action you may have arising out of, relating to, or connected with your use of the Web Site or Services, must be filed within one calendar year after             such claim or cause of action arises, or forever be barred.
+Integration.
+This Agreement contains the entire understanding and agreement between you and Slader regarding its subject matter, and supersedes all prior and contemporaneous agreements and understandings between us, whether oral in writing, regarding its subject matter.
+Additional Terms.
+This Agreement is binding upon each party hereto and its successors and permitted assigns, and shall be governed by and construed in accordance with the laws of the State of California without reference to the conflict of law principles thereof.  We both agree that all actions or proceedings arising in connection with this Agreement shall be arbitrated in accordance with the Arbitration provision of this Agreement exclusively in San Diego County, California, or in the event the matter is for any reason litigated, tried and litigated, exclusively in the state or federal courts located in San Diego County, California.  This choice of venue (for both arbitration and litigation) is intended by the both of us to be mandatory and not permissive in nature, and to preclude the possibility of arbitration or litigation between the parties with respect to, or arising out of, this Agreement in any jurisdiction other than that specified in this Section.  We both waive any right either of us may have to assert the doctrine of forum non conveniens or similar doctrine or to object to the venue with respect to any proceeding brought in accordance with this Section.  This Agreement and all of your rights and obligations under it is not assignable or transferable by you without the prior written consent of Slader.  No failure or delay by a party in exercising any right, power or privilege under this Agreement will operate as a waiver thereof, nor will any single or partial exercise of any right, power or privilege preclude any other or further exercise thereof or the exercise of any other right, power, or privilege under this Agreement.  The Slader support personnel and other Slader employees do not have the authority to amend any of the terms of this Agreement or to bind Slader to any legal or other obligation not already set forth in this Agreement.  Any of the provisions of this Agreement that by their terms should or are intended to survive the termination of this Agreement, shall survive the termination, expiration, or cancellation of this Agreement.  The invalidity or unenforceability of any provision of this Agreement will not invalidate any other provision of this Agreement, all of which will remain in full force and effect.  If you reside in or are subject to the laws of a jurisdiction anywhere in the world whose common, statutory, regulatory, or codified law would void this Agreement in whole or in any essential part (the essential parts being at least, but not only, the exclusive venue and exclusive remedy provisions, and the warranty disclaimers), or which make accessing the Web Site or using the Services illegal, you do so entirely at your own risk.
+Privacy Policy.
+Effective as of:  November 1, 2010
+SLADER ("Company", "we", or "us") takes the privacy of those visiting our web sites ("you") very seriously.  We provide this Privacy Policy (the "Policy") because you have the right to know what information we collect, how it is protected and used, and the circumstances under which it may be disclosed.  This Policy describes our use and sharing of personally identifiable information, which includes your full name, email address, mailing address, telephone number, or credit card number ("PII") that you may voluntarily provide to us if and when you register for certain services or interact with the Web Site (defined below).  The term "User" refers to visitors and to those who register for certain services.  This Policy applies to the services offered by Company on our web sites, including any Company-branded web site, Company-branded results and solutions to textbook problems, question and answers boards, discussion boards, user profiles, blogs, entertainment, online study groups and the Company gold and rewards program  (collectively, the "Web Site"), and any other features, content, applications, or services offered from time to time by us in connection with the Web Site (collectively, the "Services").
+Personally Identifiable and Other Information We Collect
+We collect information from Users of the Web Site.
+Information About Our Users
+The minimum age to use and to register for Services is 13 years old, and registered user status is limited to individuals who are thirteen (13) years of age or older ("Registered Users").  Company does not knowingly collect PII from children under the age of 13.  Children under the age of 13 should not provide any information on the Web Site.  We ask that parents supervise their children while the children are online.
+Users may wish to request information about our Company or our Services, to become Registered Users, to participate in our Services, or to submit suggestions and other information to us.  In connection with each of those items you may be asked to provide information that could identify you personally, such as your name, company, title, phone number, email address, mailing address, and/or credit card number.  In addition, if you wish to register for certain Services, download certain information, or upload information including photos and videos, you may be required to provide certain additional information that can identify you personally, such as your Registered User name or username, your password, contact information, education, name of educational institution at which you are currently enrolled, grade, hobbies, interests, age, marital status and children, and other information.  Users are responsible for maintaining the confidentiality of any passwords they are given to access our Web Site, and are fully responsible for all activities that occur under their passwords.  Information that you voluntarily provide that is not required by us is provided by you in your sole discretion.
+Aggregated Data
+Company compiles anonymous, aggregated statistics from Users for a variety of internal and marketing purposes.  Such purposes include, without limitation or restriction, benchmarking, determining appropriate levels of hardware, determining the numbers of employees that will be needed to provide the Services to our Users, and reporting numbers of Users and/or web sites that use the Services.  This anonymous, aggregated data, however, is not used in any way that can identify an individual person or User.
+Web Site Viewing Information
+Cookies
+Company uses cookies to make the Web Site easier to use and more useful.  When you visit the Web Site our servers send a cookie to your computer.  By themselves, cookies do not personally identify you, but instead simply recognize the web browser you are using.  If you do not otherwise affirmatively provide PII about yourself to us, either by registering with us, responding to a promotional offer, or filling out a form, you will remain anonymous to Company.
+There are two types of cookies: session and persistent.  Session cookies disappear from your computer when you close your web browser or turn off your computer.  Persistent cookies remain on your computer after you close your browser or turn off your computer.  You can remove persistent cookies by following directions provided in your Internet browser's "help" file.  If you have chosen to identify yourself to us then we may use session cookies containing encrypted information to allow us to uniquely identify you.
+Company uses persistent cookies that only we can read and use to identify browsers that have previously visited the Web Site.  When a User provides us with PII, a unique identifier is assigned to them.  This unique identifier is associated with a persistent cookie that we place on the User's web browser.  We are very careful about the security and confidentiality of the information stored in persistent cookies.  For example, we do not store account numbers or passwords in persistent cookies. If you disable your web browser's ability to accept cookies, you will be able to navigate our Web Site, but you will not be able to successfully use certain of the Services.
+Some of our business partners (e.g., advertisers) may use cookies on our Web Site.  We have no access to or control over these cookies.  See "Third Party Advertisers."
+Log Files
+As is true of most web sites, we gather certain information automatically and store it in log files.  This information does not identify individual users.  Log files include internet protocol ('IP') addresses, browser type, internet service provider, referring/exit pages, operating system, date/time stamp, and clickstream data.  We use this information to analyze trends, to administer the Web Site, to see how users move around the Web Site, and to gather demographic information about our user base as a whole.  We do not link this automatically-collected data to PII.  We collect certain anonymous information from your visit to the Web Site via industry standard and commercially available web analytics solutions.
+Third party applications
+Third party applications (such as widgets) created by third party developers may also be available on the Web Site.  Third party applications are small bits of software, often with interactivity, that can be installed into Users' profiles or shared with other Users.  However, Company does not control the third party developers, and cannot dictate their actions.  When a User engages with a third party application, however, that User is interacting with the third party developer, and not with Company.  Company encourages Users not to provide PII to the third party's application unless the User knows the party with whom it is interacting.
+Use of Information Collected
+Company uses the information you provide to us to give you access to information you request and to perform the Services, including to improve and personalize your use of the Web Site.  Company may also use the information that you provide to us to contact you to further discuss your interest in our Company and our Services, and to send information regarding our Company or partners (such as marketing promotions and events).  We store any voluntarily provided email we receive for archival purposes and for our own marketing purposes if we feel that it is consistent with the nature of the inquiry.  The information is collected and stored in a manner that is appropriate for the nature of the data that we collect and the need to fulfill your request.   This information is not shared with third parties for their own use, unless you specifically authorize such sharing.
+When we collect credit card information, the sole purpose of the collection and use of that information is to effect transactions for the sale of products and services.  Some purchases through our Web Site are not handled by us but are handled by third parties as described in Section III(B) below.
+To locate other Users that you may already know in the physical world, we allow Users to search for registered users using certain PII (i.e., full name or email address).  Company also allows Users to browse for certain non-PII information to help connect with other Users (e.g., hobbies or interests).  We may also enable Users to publicly display some PII if they choose to do so.  Search engines may index the portion of a User's PII that is voluntarily publicly displayed by a User.
+If you have consented to receive promotional materials (e.g., newsletters) or notifications from us, we may periodically use your email address to send you such materials related to the Services.  If you want to stop receiving such materials from us you can change your profile settings under "Profile."  In addition, you can opt out of, or unsubscribe from, reminder e-mails at any time by following the instructions contained in those e-mails.
+Non-PII information you provide to us in response to: (i) multiple choice questions like "Hobbies and Interests", "college preference"  and responses to other preference-based questions;(ii) information you add to open-ended questions; and, (iii) other non-PII about you, may be used to customize the online ads, special promotions, e-mails, and other marketing information you encounter to those we believe are aligned with your interests.  For example, based on your interests we might display an advertisement about one of our Services that you may not be familiar with, or a about an event that you may be interested in.  The information used for this feature does not provide your PII or identify you as an individual to third parties.  If you would like to disable advertising customization for these types of information, please visit contact the company at privacy@slader.com.
+Information Sharing and Disclosure
+Non-Personally Identifiable and Aggregated Information
+As described elsewhere in this Policy, we may customize the advertising and marketing messages you receive on the Web Site, or may work with outside companies to do so.  Your non-PII may be shared with these companies so this customization can be accomplished.  Company prohibits these companies from sharing your non-PII with any third party or from using it for any other purpose.  Anonymous click stream, number of page views calculated by pixel tags, and aggregated demographic information may also be shared with Company's advertisers and business partners.
+We may also perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the Web Site.  In addition, we may in the future inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners.  We will, however, provide only aggregated data from these analyses to third parties.
+We do not link aggregate user data with PII.
+Personally Identifiable Information
+We share PII with third parties in particular situations.
+Company may sometimes permit third parties to offer registration-based services through the Web Site.  Company is not responsible for any actions or policies of such third parties, and users should check the applicable privacy policy of such parties when providing PII to them.
+We may in connection with the Web Site use the services of third parties (i.e., technology consultants and CRM vendors), who may, in the course of providing services to us, be given access to the information you have provided to us. Each of these service providers is contractually obligated to provide services to us in a manner consistent with this Policy.
+Company employees, agents and contractors must have a business reason to obtain access to your PII.  Company may share your PII with those who help us manage or provide the Services (e.g., message board administration, technical support services, statistical analyses, data processing, and order fulfillment), or with outside contractors, agents or sponsors who help us with the administration, judging and prize fulfillment aspects of contests and promotions.
+These outside contractors or agents may temporarily store some information on their servers, but they may only use your PII to provide Company with a specific service and not for any other purpose.  Company may also provide your PII to a third party in those instances where you have chosen to receive certain information and have been notified that the fulfillment of such a request requires the sharing of your PII.  Company also may share your PII with companies that are affiliated with our Company if we have a business reason to do so.
+If in the future we intend to share personally identifiable information with third parties acting other than as our agents or service providers, we will provide you with the opportunity to opt-out prior to the sharing.
+Agents and Service Providers
+We may use additional credit card processing companies when necessary to bill for products and services.  These companies do not retain, share, store or use PII for any other purposes.
+We may use other third parties to provide shopping services, and a community environment/social network, on our Web Site.  When you sign up for the Services we will share the PII that is necessary for the third party to provide the Services.
+These third parties are prohibited from using your PII for any other purpose.
+Law Enforcement and Assignment
+We reserve the right to disclose your PII pursuant to a subpoena or other judicial or administrative order, when required by law, when we believe that disclosure is necessary to protect our rights, the rights of our affiliated companies, the rights or safety of any individual or the public, and rights of our Users or any third party, or to enforce our Terms of Use or judging and prize fulfillment aspects of contests and promotions.  In addition, if Company sells all or part of its business or the equity ownership thereof, makes a sale or transfer of all or a material part of its assets, or is otherwise involved in a merger, reverse merger or transfer of all or a material part of its business, Company may disclose and transfer your PII to the party or parties involved in the transaction as part of that transaction.
+Choice and Opt-Out
+We provide you the opportunity to "opt-out" of having your PII used for certain purposes, when we ask for this information.  For example, if you sign up for the Services but do not wish to receive any additional marketing material from us, you can so indicate your preferences in your Profile.
+If you no longer wish to receive our promotional or other communications, you may opt-out of receiving them by following the instructions included in each communication.  You may also update your profile on the sites that contain a profile and change your newsletter and promotional communications' preferences.
+You will be notified when your personal information is proposed to be collected by any third party that is not our agent or service provider, so you can make an informed choice as to whether or not to share your information with that party.
+Changing Your Information
+Users may update or change their PII by editing their Profile.  To update or delete User information on the Web site please login to www.slader.com/account with your Registered User name and password.
+Security
+The security of your PII is important to us.  When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology ("SSL").
+We follow generally accepted industry standards to protect the PII submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+Links to Other Sites
+Our Web Site may contain links to other web sites.  Company is not responsible for the privacy practices or the content of non-Company Web Sites.  Non-Company linked Web Sites are not under the control of Company and Company is not responsible for the contents of any such linked sites, any link contained in such linked sites, or any changes or updates to such sites.  Company is not responsible for any transmission received from any non-Company Web Sites including any webcasting or other method of transmission.  Links to non-Web Sites are provided only as a convenience.  Company does not endorse any link made available through our Web Site that is not a Company Web Site.  We encourage all users of our Web Site to read the privacy policies of each and every Web Site visited when linking directly from our Web Site.
+This Policy applies only to information collected by the Web Site.
+Chat Rooms
+If you use a chat room or any other publicly available area on the Web Site, you should be aware that any PII you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  We are not responsible for the PII you choose to submit in these forums.
+In addition, if you provide to Company directly, or you choose to post on the portions of the Web Site that are viewable by others, any comments, ideas, or suggestions that are accompanied by your name (which is PII), or your first name and your last name initial, Company may use both your comments, ideas, suggestions, including alternative solutions, formula work product and methodologies, and your name, for our marketing purposes or otherwise in connection with the operation of the Web Site and performance of the Services without compensation or acknowledgment of any kind.
+Changes in this Privacy Policy
+We reserve the right to modify this Policy at any time, so please review it frequently.  If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page.  Your continued use of the Web Site after we post a revised Policy constitutes your acceptance of the new Policy and its terms.  If, however, we materially change our practices regarding the collection or use of your PII, your PII will continue to be governed by the Policy that was in place at the time you provided the PII unless we provide notice to you of the material changes in the Policy and you do not object to such changes.
+Contact Information
+If you have any questions about this Privacy Policy, please contact us at: privacy@slader.com or at the address or telephone number listed below.
+SLADER Customer Relations 199 Lafayette Street, Suite 3B New York, NY 10012 USA Phone: 212-625-4884 Email:  privacy@Slader.com
+There was an error saving. Please reload the page.
+Slader
+[math]\bigg|_{a}^{b}[/math]
+[math]\left[ \right]_{a}^{b}[/math]
+[math]\alpha[/math]
+[math]\beta[/math]
+[math]\gamma[/math]
+[math]\delta[/math]
+[math]\epsilon[/math]
+[math]\varepsilon[/math]
+[math]\zeta[/math]
+[math]\eta[/math]
+[math]\theta[/math]
+[math]\vartheta[/math]
+[math]\iota[/math]
+[math]\kappa[/math]
+[math]\lambda[/math]
+[math]\mu[/math]
+[math]\nu[/math]
+[math]\xi[/math]
+[math]\pi[/math]
+[math]\rho[/math]
+[math]\varrho[/math]
+[math]\sigma[/math]
+[math]\tau[/math]
+[math]\upsilon[/math]
+[math]\phi[/math]
+[math]\varphi[/math]
+[math]\chi[/math]
+[math]\psi[/math]
+[math]\omega[/math]
+[math]\Gamma[/math]
+[math]\Gamma[/math]
+[math]\Delta[/math]
+[math]\Theta[/math]
+[math]\Lambda[/math]
+[math]\Xi[/math]
+[math]\Pi[/math]
+[math]\Sigma[/math]
+[math]\Upsilon[/math]
+[math]\Phi[/math]
+[math]\Psi[/math]
+[math]\Omega[/math]
+[math]\alpha[/math]
+[math]\beta[/math]
+[math]\gamma[/math]
+[math]\delta[/math]
+[math]\epsilon[/math]
+[math]\varepsilon[/math]
+[math]\zeta[/math]
+[math]\eta[/math]
+[math]\theta[/math]
+[math]\vartheta[/math]
+[math]\iota[/math]
+[math]\kappa[/math]
+[math]\lambda[/math]
+[math]\mu[/math]
+[math]\nu[/math]
+[math]\xi[/math]
+[math]\pi[/math]
+[math]\rho[/math]
+[math]\varrho[/math]
+[math]\sigma[/math]
+[math]\tau[/math]
+[math]\upsilon[/math]
+[math]\phi[/math]
+[math]\varphi[/math]
+[math]\chi[/math]
+[math]\psi[/math]
+[math]\omega[/math]
+[math]\Gamma[/math]
+[math]\Gamma[/math]
+[math]\Delta[/math]
+[math]\Theta[/math]
+[math]\Lambda[/math]
+[math]\Xi[/math]
+[math]\Pi[/math]
+[math]\Sigma[/math]
+[math]\Upsilon[/math]
+[math]\Phi[/math]
+[math]\Psi[/math]
+[math]\Omega[/math]
+[math]\lfloor \ \rfloor[/math]
+[math]\Bbb{N}[/math]
+[math]\Bbb{Z}[/math]
+[math]\Bbb{Q}[/math]
+[math]\Bbb{R}[/math]
+[math]\mapsto[/math]
+[math]\oplus[/math]
+[math]\odot[/math]
+[math]\therefore[/math]
+[math]\because[/math]
+[math]\alpha[/math]
+[math]\beta[/math]
+[math]\gamma[/math]
+[math]\delta[/math]
+[math]\epsilon[/math]
+[math]\varepsilon[/math]
+[math]\zeta[/math]
+[math]\eta[/math]
+[math]\theta[/math]
+[math]\vartheta[/math]
+[math]\iota[/math]
+[math]\kappa[/math]
+[math]\lambda[/math]
+[math]\mu[/math]
+[math]\nu[/math]
+[math]\xi[/math]
+[math]\pi[/math]
+[math]\rho[/math]
+[math]\varrho[/math]
+[math]\sigma[/math]
+[math]\tau[/math]
+[math]\upsilon[/math]
+[math]\phi[/math]
+[math]\varphi[/math]
+[math]\chi[/math]
+[math]\psi[/math]
+[math]\omega[/math]
+[math]\Gamma[/math]
+[math]\Gamma[/math]
+[math]\Delta[/math]
+[math]\Theta[/math]
+[math]\Lambda[/math]
+[math]\Xi[/math]
+[math]\Pi[/math]
+[math]\Sigma[/math]
+[math]\Upsilon[/math]
+[math]\Phi[/math]
+[math]\Psi[/math]
+[math]\Omega[/math]
+[math]\sum\limits_{n=a}^b[/math]
+[math]\prod\limits_{n=a}^b[/math]
+[math]\bigcap\limits_{n=a}^b[/math]
+[math]\bigvee\limits_{n=a}^b[/math]
+[math]\bigwedge\limits_{n=a}^b[/math]
+[math]\left[\begin{array}{cc|c}a & b & c\\d & e & f\\g & h & i\end{array}\right][/math]
+Enter your math below

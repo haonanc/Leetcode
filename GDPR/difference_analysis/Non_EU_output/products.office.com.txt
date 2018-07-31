@@ -1,0 +1,27 @@
+Try Microsoft EdgeA fast and secure browser that's designed for Windows 10
+Privacy by design from Office 365
+Welcome to the place where we share our commitments and information about security, privacy, and                             compliance.
+ 
+Data ownership and what it means
+You are the owner of the data; Microsoft is the custodian or processor of your data.
+We do not mine your data for advertising purposes.
+Our role as data processor
+We use your data only for purposes consistent with providing you services you pay us for. Microsoft Engineers do not have standing access to any service operation. Learn more about Customer Lockbox for Office 365.
+We regularly disclose the number of law enforcement requests we receive through our transparency reports .
+If a government approaches us for access to customer data, we redirect the inquiry to you, the customer, whenever possible.                                     We have challenged and will challenge in court any invalid legal demand that prohibits                                     disclosure of a government request for customer data.
+Privacy controls
+Privacy controls enable you to configure who in your organization has access and what they                                     can access.
+Design elements prevent mingling of your data with that of other organizations using Office 365.
+Extensive auditing and supervision prevent administrators from getting unauthorized access                                     to your data.
+Caldera uses Office 365 to protect privacy
+We wanted to migrate to a more secure system that would protect the privacy of our email communications and documents.
+—Damian White
+Read how Microsoft addresses privacy issues associated with cloud computing and online services.
+Top 10 security and privacy features
+Review the top security and privacy considerations to help you determine the security and trustworthiness of cloud service                         providers and their services.
+Protecting data and privacy in the cloud
+Read how the Microsoft approach ensures that our customers’ data in our enterprise services remains private.
+Please fill in the feedback field before sending!
+To protect your privacy, please do not include contact information in your feedback. Review our privacy policy.
+Send
+×

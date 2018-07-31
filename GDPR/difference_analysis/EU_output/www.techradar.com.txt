@@ -1,0 +1,75 @@
+Shares
+The awesome operating system Linux is free and open source. As such, there are thousands of different ‘flavours’ available – and some types of Linux such as Ubuntu are generic and meant for many different uses. 
+But security-conscious users will be pleased to know that there are also a number of Linux distributions (distros) specifically designed for privacy. They can help to keep your data safe through encryption and operating in a ‘Live’ mode where no data is written to your hard drive in use.
+Risky apps are confined to separate virtual machines
+Also uses sandboxing to protect system components
+Can be tricky to set up and manage
+While definitely not for novice users, Qubes is one of the top privacy-conscious distros. The graphical installer must be used to install the OS to your hard drive, which will be encrypted.
+Qubes OS uses the Xen Hypervisor to run a number of virtual machines, compartmentalising your life into ‘personal’, ‘work’, ‘internet’ and so on for the sake of security. This means if you accidentally download malware on your work machine for instance, your personal files won’t be compromised. 
+The main desktop uses colour-coded windows to show different virtual machines, making it easy for you to tell them apart.
+All connections routed through Tor network
+Can be run in 'Live' mode
+Limited default set of applications
+Tails (which stands for ‘The Amnesiac Incognito Live System’) is probably the most well-known privacy-focused distro. It can be run from a DVD in Live mode whereby it loads entirely into your system RAM and will leave no trace of its activity. The OS can also be used in ‘persistent’ mode where your settings can be stored on an encrypted USB stick.
+All connections are routed through the anonymity network Tor, which conceals your location. The applications in Tails have also been carefully selected to enhance your privacy – for example, there’s the KeePassX password manager. There are also a small number of productivity apps such as Mozilla Thunderbird and the powerful LibreOffice suite.
+You can install more applications from Debian repositories via the command line, but they will take some time to download as they pass through the Tor network.
+Do note that vulnerabilities are constantly discovered with Tails so be sure to check for updates (as you should do with any OS, of course).
+Large number of built-in hacking utilities
+Constantly updated
+64-bit Live ISO is over 7GB in size
+This pen-testing distro is based on Arch Linux, which may be good or bad news depending on how familiar you are with its parent operating system. While relatively new, this OS contains over 1,900 different hacking tools, saving you the trouble of having to download what you need each time.
+The distro is constantly updated, with new ISO images being released on a quarterly basis. These are very large in size (currently 7.5GB) due to the amount of pre-installed programs, but note that there's also a much smaller Netinstall version which is only around 500MB. 
+BlackArch can be run live from a USB stick or CD, or installed onto a computer or virtual machine. It can even be installed onto a Raspberry Pi to give you a portable pen-testing computer that you can carry anywhere.
+The ‘anti-forensics’ category is particularly worth mentioning as it contains tools to scan your memory for passwords to encrypted devices. This helps protect your machine from a ‘ cold boot ’ attack.
+Hundreds of built-in pen-testing tools
+Very much a niche distro
+Named after the Hindu goddess, Kali is one of the oldest and most well-known pen-testing distros. The Kali download page offers ISOs that are updated weekly, which can be run in live mode or installed to a drive. Kali will also happily run on ARM devices like the Raspberry Pi. 
+Kali’s reputation is so formidable that its creators offer training through the Kali Linux Dojo . Lessons include customising your own Kali Linux ISO and learning the fundamentals of pen-testing. For those unable to attend the training, all educational resources from the classes are available on Kali’s website free of charge. 
+Anyone interested in a career in Information Security can also take on Kali's paid penetration testing courses which take place online and are self-paced. There's a 24-hour certification exam which if passed will make you a qualified penetration tester.
+Little risk of leaking your real IP online
+I2P connections generally faster than Tor
+No way to access regular websites easily
+This privacy-oriented operating system is based on Fedora Linux and can be run in Live mode or installed to your hard drive. Just as Tails OS routes all your connections through the Tor network to anonymise your connection, Ipredia routes all your network traffic through the anonymous I2P network.
+This is known as ' garlic routing ', a process whereby I2P establishes one-directional encrypted tunnels to protect your data. This is theoretically much safer than Tor's 'onion routing' which transmits data over established 'circuits', meaning they can be targeted for surveillance.
+Features include anonymous email, BitTorrent client, and the ability to browse eepsites (special domains with the extension .i2p). Unlike Tor, I2P doesn’t act as a gateway to the normal internet, so Ipredia cannot safely access regular websites.
+The advantage of only accessing eepsites is that your connection is truly untraceable. As I2P is designed specifically for 'hidden' services, connection and download speeds are generally much faster than routing through Tor as TAILS does.
+Connections routed via the anonymous Tor network
+Many privacy-specific apps preinstalled
+VM performance isn’t as fast as local installation
+Booting a Live operating system is a nuisance as you have to restart your machine, while installing it to a hard drive means there’s a risk of it being compromised. Whonix offers an elegant compromise by being designed to work as a virtual machine inside the free program Virtualbox . 
+Whonix is split into two parts. The first ‘Gateway’ routes all connections to the Tor network for the second ‘Workstation’ part. This hugely reduces the chance of DNS leaks which can be used to monitor what websites you visit. 
+The OS has a number of privacy-conscious features . These include bundled apps such as the Tor Browser and Tox instant messenger.
+As it runs in a virtual machine, Whonix is compatible with all operating systems that can run Virtualbox. Virtual machines can only use a portion of your real system's resources, so Whonix will not necessarily perform as fast as an OS that has been installed to a local hard drive.
+Data can be securely stored offline
+Can store settings in an encrypted area
+Software still in beta so may not be safe to use
+This intentionally misspelled distro is the successor to the awesome Ubuntu Privacy Remix. The OS contains no support for network hardware or internal hard drives, so all data is stored offline in RAM or on a USB stick. It can be run in Live mode, but when booting from a volume also allows you to store some of your settings in an encrypted ‘Cryptobox’. 
+Another clever feature is that kernel modules can only be installed if they’ve been digitally signed by the Discreete Linux team. This prevents hackers from trying to sneak in malware. Note that this operating system is currently in the beta testing stage.
+Visually stunning desktop and menus
+Large range of pen-testing tools
+Potential stability issues
+This pen-testing distro comes to us from the Italian team Frozenbox. Like Kali and BlackArch it categorises tools for easy access and even has a section for the ones you most commonly use.
+Parrot is based on Debian 10 (Buster), the testing branch of this OS, so you might encounter stability issues. However, note that Parrot has much more colourful backgrounds and menus than its parent OS. As such, its hardware requirements are rather more demanding than other pen-testing distros such as Kali.
+A minimum of 4GB of RAM is recommended. If you don't have the RAM to spare, you can go with the 'Lite' edition of Parrot Security OS and choose to install and run only the programs you need. 
+For those with minimal resources, Parrot Cloud is a special version of the distro specifically designed to run on a server. It has no graphics but does contain a number of networking and forensic tools to allow you to run tests remotely. For those on a very tight budget, there is even an experimental version available for the Raspberry Pi. 
+Elegant look and feel
+OS is alpha so has some security vulnerabilities
+Subgraph OS is based on Debian Linux and is designed for ultra-tight security. The kernel has been hardened with a number of security enhancements, and Subgraph also creates virtual ‘sandboxes’ around risky applications like web browsers.
+A specialised firewall also routes all outgoing connections through the anonymous Tor network. Each application has to be manually approved by the user to connect to the network, and to access other applications’ sandboxes.
+In April 2017 Joanna Rutkowska, the creator of Qubes, together with security researcher Micah Lee , were able to circumvent Subgraph's security by running a malicious app in the Nautilus file manager, which isn't sandboxed.
+This attack would also work on other privacy-oriented distros such as Tails. The Subgraph team has yet to develop a patch for this exploit, but have pointed out that the OS is still in the alpha stage of development. 
+This distro is designed to be installed on a hard drive. Encryption of your file system is mandatory, meaning there’s no danger of writing unencrypted data anywhere. As mentioned, Subgraph is still in its testing phase so do not rely on it to protect any truly sensitive data (and as always, keep regular backups).
+Designed by experts in US Air Force
+Setup is extremely easy
+Can be tricky to download
+Our tenth offering is, rather aptly, TENS (Trusted End Node Security). Formerly known as LPS (Lightweight Portable Security), this Linux distro has been designed by none other than the US Air Force and is NSA approved [PDF].  
+The public version of TENS is specifically designed to be run in Live mode, meaning that any malware is removed on shutdown. It includes a minimal set of applications but there is also a ‘Public Deluxe’ version which comes with Adobe Reader and LibreOffice. All versions include a customisable firewall, and it’s also worth noting that this operating system supports logging in via Smart Card.
+Join 13,000 TechRadar Pro subscribers!
+This buyers guide focuses on the red hot market of ruggedised mobile computing, covering laptops, 2-in-1 devices, smartphones as well as storage and software.
+Most Popular
+Most Shared
+1
+4
+2
+3
+4

@@ -1,0 +1,12 @@
+This month, Oath updated its privacy policies, which grants the company the right to scan your AOL and Yahoo email for the purposes of tailoring ads for users.
+Verizon acquired Yahoo in 2016 , and brought AOL and Yahoo together under an unfortunately named brand : Oath. At the time, we noted that the merger, coupled with the passage of a bill allowing ISPs to share browsing data was something that the companies had worked towards for years: the ability to extract revenue from consumers with their personal data. That prediction appears to be coming true:
+Oath confirmed to Cnet that it rolled out a unified privacy policy to its AOL and Yahoo brands. The updated policy ( spotted by Jason Kint ) states that the company “analyzes and stores all communications content, including email content from incoming and outgoing mail,” which will allow it to “deliver, personalize and develop relevant features, content, advertising and Services.”
+The policy also states that the company can “analyze your content and other information (including emails, instant messages, posts photos, attachments, and other communications),” and it singles out messaging from financial institutions, saying that it “may analyze user content around certain interactions with financial institutions.” Oath says that its automated systems will strip out “information that on its own could reasonably identify the recipient.” It might also collect Exchangeable Image File Format (EXIF) data from images that you upload, and utilize image recognition to “identify and tag scenes, color, best crop coordinates, text, actions, objects, or public figures.”
+Cnet notes that while Yahoo’s prior privacy terms included a terms, AOL’s did not. The company’s privacy policy does allow you to opt out of ad targeting and manage your marketing preferences . The policy update also does not apply to some of Oath’s affiliate companies, such as Tumblr and Project Little, which have their own policies. Gmail famously scanned the email accounts of its users for the purpose of delivering targeted ads, but ended the practice last year .
+Next Up In Tech
+Most Read
+email address...
+Subscribe
+By signing up, you agree to our Privacy Policy and European users agree to the data transfer policy.
+This Article has a component height of 6. The sidebar size is short.
+Loading comments...

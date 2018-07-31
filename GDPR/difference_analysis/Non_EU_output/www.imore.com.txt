@@ -1,0 +1,41 @@
+Facebook, Privacy, and You: The Ultimate Guide
+Don't trust Facebook but have to use it? Here's how to keep your information — and that of your friends — safe and sound.
+2
+Facebook is a behemoth of information. It's the company's business model (predicated on advertising and third-party integrations), and it's not stopping anytime soon.
+If you object to your data being used in this manner, you can always delete Facebook , but for many people that's not a realistic path — Facebook and its Single Sign-On controls are so integrated into people's lives at this point that it's nigh-impossible for some to extricate from the platform.
+Instead, consider using Facebook's built-in privacy controls and settings to control your sharing — and give away only the information that you want to have out on the web.
+How to spot fake social media posts & photos before sharing
+Being smart with your data on Facebook isn't just about your own information — it's about what you share, too. Given our attraction to the outrageous and unbelievable, it's no surprise the most popular social media posts are often the most wrong. Before you hit the share button on a viral photo, consider a quick fact check using these methods.
+How to download a copy of your Facebook data
+Taking control of your Facebook data starts with understanding just how much of your data is stored with Facebook. The social media service offers a self-help tool that gives you access to your entire trove of personal data. It's actually a fairly simple process that lets you see all your photos, videos, friends, contact info, messages, apps, and quite a bit more that Facebook's storing on its servers.
+How to lie to Facebook
+A few years back, I reworked my Facebook account to lock down my personal information; given everything that happens with the social media giant week by week, I figured I'd walk everyone through the steps I took to keep Facebook from accidentally broadcasting valuable data to the world.
+How to adjust your privacy settings on Facebook
+Facebook allows you to customize who can see your posts, pages, friend list, and more. It also allows you to restrict who can send you friend requests or look you up by your provided contact information. Here's how to customize it.
+One of Facebook's many features is that you can "check in" from your current location, letting your friends and family know where you are or where you've been. You can also use Facebook to let your friends know where you are right now using the Nearby Friends feature.
+If you don't feel comfortable sharing your every move with a bunch of advertisers, you can protect your privacy and disable location tracking.
+If you've ever received an advertisement in your Facebook feed that's eerily related to a topic you discussed in real life, it might feel a bit like Facebook is listening in on your conversations through its Messenger app (which asks to access your microphone when you start using it).
+Facebook has gone on record to state that it does not listen in on your conversations. But if you're still concerned about this, you can disable microphone access from your Settings app.
+Facebook has been the subject of a lot of criticism recently, and what have we learned? Trust no one. That includes other companies that have a lot of access to your personal data, like your family photos and where you were when you took those photos. The convenience of location-based metadata for photos is great for you and me, but can also be used by those same companies that betrayed our trust, especially when those same companies own some of the other social media services we love, like Instagram.
+Facebook's Single Sign On service makes logging in and creating accounts for apps, games, and services easy. But when you use Facebook to log in, Facebook gives those apps access to your data — a lot of your data.
+There are a number of ways to reduce the amount of data you share with Facebook — including providing fake information in your profile, changing profile settings so that certain information displays only to you, and stopping apps from collecting your data entirely.
+But one of the best ways to ensure that you aren't sharing anything is to check your third-party app list and see exactly what you're providing to these services. If necessary, you can even disable Facebook's app platform altogether.
+How to prevent friends' apps from getting your data
+You may already be aware of the fact that you're giving third-party apps and services access to some — or all — of your data when you use Facebook to sign up with them, but did you know your friends are also giving third-party apps and services access to some of your data? Yep! Here's how Facebook describes this feature:
+People on Facebook who can see your info can bring it with them when they use apps. This makes their experience better and more social.
+If you're not interested in making your friends' app experiences "better and more social," you can opt out of this data-sharing feature.
+How to opt out of Facebook's data brokers
+A data broker collects your information from various sources. Depending on the broker in question, this information could come from your online activity, offline activity, or both. (Whenever you make a purchase online or utilize your grocery store's loyalty card, for example, the data on your purchases is collected by at least one company.)
+Facebook buys this data and combines it with their information to give advertisers the power to specifically target ads towards you. Though Facebook says that the data brokers anonymize what they collect, the details can still be matched against your Facebook profile, building a complete picture of who you are for Facebook and its advertisers. Creepy, right?
+There's some good news here, though. You can opt-out of this sort of data collection at a lot of data brokers including the companies with which Facebook has partnered. And you can do this on top of using security features such as limiting ad tracking on devices like your iPhone and iPad.
+How to remove your Facebook data without deleting your account
+If you'd like to slim down the amount of data Facebook has at its disposal, iMore writer Adam Zeis has a few tips to get your photos, posts, albums, and location data off the service.
+How to lock down social media for your kids
+Besides being easier to connect with entire groups of friends and classmates through these services, schools are becoming increasingly involved in sharing group accomplishments on social media for all of the parents to see at once. Combine that with the relatively recent appearance of social network celebrities, regardless of inspirational or aspirational interest, and you've got plenty of reasons for your child to want into this world they are currently denied access to.
+Truth be told, social media is almost exactly as great as it is terrible. It only gets weirder if you're not an active user yourself, and that can raise a lot of perfectly valid concerns you may have before allowing your child access to these apps and websites. To help you better understand how to talk with your kids about the potential pitfalls and to help you understand exactly what is going on and how to ensure your child is as safe as possible, we've assembled this little guide to help!
+Your tips?
+How do you lock down your Facebook account? Have you chosen to delete the service altogether? Let us know in the comments.
+Serenity Caldwell
+Serenity is the Managing Editor at iMore. She's been talking, writing about, and tinkering with Apple products since she was old enough to double-click. In her spare time, she sketches, sings, and in her secret superhero life, plays roller derby. Follow her on Twitter @settern.
+Load More
+Copyright 2018 Mobile Nations

@@ -1,0 +1,81 @@
+View desktop website
+© Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries. Privacy Policy  |   Legal  |   Steam Subscriber Agreement  |   Refunds
+Steam username
+Password
+It seems that you may be having trouble entering your password. We will now show your password in plain text (login is still secure).
+Type these characters below
+A new free account
+It's free to join and easy to use. Continue on to create your Steam account and get Steam, the leading digital solution for PC, Mac, and Linux games and Software.
+Receive automatic game updates
+Voice and text chat with friends
+View rich friend activity and status
+Rate and comment on Game Hubs
+Join or create groups and events
+Hello!
+We see you're logging in to Steam from a new browser or a new computer.  Or maybe it's just been a while...
+Mistaken for spam?
+Did you check your spam folder?  If you don't see a recent message from Steam Support in your inbox, try looking there.
+Success!
+Whoops!
+Let us help!
+Sorry you're having trouble.  We know your Steam account is valuable to you, and we're committed to helping you keep access to it in the right hands.
+As an added account security measure, you’ll need to grant access to this browser by entering the special code we’ve just sent to your email address at .
+If this is a public computer, be sure to log out of Steam when you're ready to quit this browser session.
+Please contact Steam Support for assistance from a member of our staff.  Legitimate claims for help with account access are our number one priority.
+Found it!
+No luck still...
+and I've re-entered my special access code above
+Please help
+I think I need assistance from Steam Support...
+To easily recognize this browser among the list of devices Steam Guard has enabled, give the browser a friendly name - at least 6 characters long.
+Sorry
+This account can't be accessed from this computer without additional authorization.
+Please contact Steam Support to have a member of our staff assist you.  Legitimate claims for help with account access are our number one priority.
+This account is currently using a Steam Guard Mobile Authenticator.
+Whoops!
+Let us help!
+Sorry you're having trouble.  We know your Steam account is valuable to you, and we're committed to helping you keep access to it in the right hands.
+Confirm ownership of your account
+We'll send a text message containing an account recovery code to your phone number ending in . Once you enter the code, we will remove the mobile authenticator from your account and you will receive Steam Guard codes via email.
+Confirm ownership of your account
+We have sent a text message containing a confirmation code to your phone number ending in . Enter the code below so we can remove the mobile authenticator from your account.
+Whoops!
+Success!
+We have removed the mobile authenticator from your account. Next time you log in, you will have to enter a Steam Guard code that is sent to your email address.
+Success!
+You can now use this device to get mobile authenticator codes for your account. Any other device that was previously providing authenticator codes for your account will no longer be able to do so.
+Do you have the recovery code?
+You do not have a phone number associated with your Steam account, so we are unable to verify account ownership via a text message. Do you have the recovery code that you wrote down when you added the mobile authenticator? The recovery code begins with the letter 'R'.
+Enter your recovery code
+Please enter the recovery code in the box below. The recovery code begins with the letter 'R'.
+Whoops!
+Let us help!
+If you have lost access to your mobile device, the mobile phone number associated with your account, and don't have the recovery code that you wrote down when you added the mobile authenticator, then please contact Steam Support for assistance recovering access to your account.
+Let us help!
+Sorry you're having trouble.  We know your Steam account is valuable to you, and we're committed to helping you keep access to it in the right hands.
+Sorry!
+Enter the current code displayed in the Steam Mobile app:
+If you have lost your mobile device or uninstalled the Steam app and can no longer receive codes, then you may remove the mobile authenticator from your account. This will reduce the security on your account, so you should add a mobile authenticator to a new mobile device afterwards.
+Please contact Steam Support for assistance from a member of our staff.
+I no longer have access to my Mobile Authenticator codes
+I want to try again
+and I've re-entered my authenticator code above
+Please help
+Remove authenticator
+Use this device
+OK!
+I can't
+because I no longer have access to that phone number
+Submit
+Please help
+Submit
+Please help
+Log in
+Log in
+Yes
+No
+Submit
+Submit
+Please help
+Please help
+Some geospatial data on this website is provided by geonames.org .

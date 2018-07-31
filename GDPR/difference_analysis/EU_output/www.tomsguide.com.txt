@@ -1,0 +1,32 @@
+Dec 4, 2017, 5:10 AM
+The TrueDepth cameras in Apple's iPhone X bring the power of facial recognition — and the convenience of its phone-unlocking Face ID — to its phones, but some believe the company isn't doing enough to protect the data these tools collect.
+In a piece for the Washington Post , Geoffrey A. Fowler is pressing the question of whether and how Apple should be sharing this data with app makers, because of what they can do with that information. Using an app called MeasureKit, Fowler's been able to see the face-scanning data Apple shares with developers.
+For instance, he claims a wireframe map of your face, complete with "a live read-out of the 52-micro movements in your eyelids, mouth and other features" can be stored on the servers belonging to app-makers. This access is corroborated in a Reuters piece published about the cameras.
+While iPhone users have been trained to tap a button to give camera access permissions to apps, the situation here goes a little deeper. Fowler claims his pursuits have already improved privacy for users, stating that after he "pressed executives this week, Apple made at least one change—retroactively requiring an app tapping into face data to publish a privacy policy."
+Apple's rules forbid app developers from using this data for advertising or marketing, to identify anonymous users or sell said data to third parties, but that doesn't exactly calm all fears down. While smaller companies would want to obey Apple's rules to prevent the risk of getting kicked out of the app store, larger companies, such as Uber , have a record of breaking Apple's rules .
+To disable Cameras access, open go into the Settings app, tap Privacy and tap Camera. There, flip switches to the off position.
+But even if those rules are obeyed, realize that the data collected by these sensors can expose more of who you are to the apps you use. The tracking of facial movements can be used to monitor your mood, and Fowler claims this data could be used to derive a user profile, including "gender, race and even sexuality."
+If a rule breaker truly doesn't care about angering Apple, they could use an app that tracks your location and uses your cameras — hi, Pokemon Go! — to figure out where you are and how you're feeling.
+In the end, iPhone X users concerned about their privacy might want to limit the settings for apps they don't trust. Go into the Settings app, tap Privacy and tap Camera. There, disable the switch next to any apps you wouldn't want to know more about you.
+You'd Also Like
+Create a new thread in the iPhone forum about this subject
+Title
+Title
+Subject
+Publish
+4 comments
+Harvey_14
+Apple DOES NOT give Face ID data to third-party developers (or even to themselves). They don't do this, because they can't.
+Face ID data is stored encrypted in the Secure Enclave (hardware that is not accessible by any application). In fact, NO Face ID user data is even required by third-party developers to produce apps that use facial recognition.
+It is impossible to "steal" Face ID data. Third party developers have always been able to, with the users' permission, use the front facing camera (even BEFORE there was ever a Face ID system). Whatever gets used by those apps is NOT the same type of data as the securely stored Face ID data, and therefore CANNOT be used to "break" any security that relies on Face ID.
+A developer may have a 3D scan of your face, just as developers previously could get a photo or video of your face. But that 3D scan in a third-party app, can't be used to override anything that Face ID does.
+NexusStay
+henrytcasey
+Anonymous said:
+Apple DOES NOT give Face ID data to third-party developers (or even to themselves). They don't do this, because they can't.
+Face ID data is stored encrypted in the Secure Enclave (hardware that is not accessible by any application). In fact, NO Face ID user data is even required by third-party developers to produce apps that use facial recognition.
+It is impossible to "steal" Face ID data. Third party developers have always been able to, with the users' permission, use the front facing camera (even BEFORE there was ever a Face ID system). Whatever gets used by those apps is NOT the same type of data as the securely stored Face ID data, and therefore CANNOT be used to "break" any security that relies on Face ID.
+A developer may have a 3D scan of your face, just as developers previously could get a photo or video of your face. But that 3D scan in a third-party app, can't be used to override anything that Face ID does.
+Hi there,
+Totally agree, Face ID data isn't what's at stake here, just the data collected by the cameras that are also used for Face ID. Seems like we could do well by changing our headline. Gonna do that now.
+Thank you,

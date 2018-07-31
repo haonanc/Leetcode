@@ -1,0 +1,58 @@
+Enter a valid email address and a feedback message.
+Plese check the I'm not a robot checkbox.'
+We were unable to submit your feedback at this time. Please try again later.
+Send Feedback
+Why change the site?
+Make it more secure and usable.
+Improve performance and speed.
+About the new site:
+We would love to hear what you think. Use the feedback button at the bottom right corner of any page to send us your thoughts.
+You can use the "Back to the old site" link in the yellow bar at the top of each page to return to the old site for now.
+Sign in or Register
+You need a Find A Grave account to add things to this site.
+Already a member?
+There is a problem with your email/password.
+We’ve updated the security on the site. Please reset your password.
+Your account has been locked for 30 minutes due to too many failed sign in attempts. Please contact Find A Grave at support@findagrave.com if you need help resetting your password.
+Email not found
+There is a problem with your email/password.
+×
+A system error has occurred. Please try again later.
+×
+×
+We encountered an unknown problem. Please wait a few minutes and try again. If the problem persists contact Find A Grave.
+Password Reset
+Please enter your email address and we will send you an email with a link to reset your password.
+Email
+Password
+Invalid Email
+Account already exist
+Internal Server error occurred
+×
+×
+We just emailed an activation code to . Please check your email and click on the link to activate your account..
+Becoming a Find A Grave member is fast, easy and FREE.
+Name
+Email
+Password
+OK
+Have at least 1 number and or special character
+Be at least 8 characters
+Show password
+Public Name
+Latitude must be between -90 and 90
+Longitude must be between -180 and 180
+Plot Cemetery using Map
+Plot Memorial using Map
+Plot Location using Map
+Select a place on the map to place the pin.
+Latitude
+Longitude
+Save
+Browse
+REGION
+COUNTRY
+STATE
+COUNTY
+CITY
+Clear

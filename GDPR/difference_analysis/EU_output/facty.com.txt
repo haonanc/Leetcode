@@ -1,0 +1,64 @@
+Privacy Policy
+This Privacy Policy was last revised and shall become effective as of May 25, 2018.   By accessing the Site, you have read and agree to the terms and conditions of this Privacy Policy in its entirety.
+If you opt-in to our newsletter(s), we’ll send you emails and other stuff that may be of interest to you. You can unsubscribe from our marketing emails at any time.
+We collect Personal Data, Site Data, and Anonymous Data (as defined below) to make our website(s) more useful to you.
+If we do collect Personal Data (as defined below), we will only use this information for lawful purposes and will store and retain this information for as long as required by applicable law.
+ 
+ 
+Lawful Basis for Processing Data
+ 
+ 
+How We Collect and Use Personal and Anonymous Data
+ 
+ 
+ 
+(1) to fulfill your requests to receive information from us;
+(2) to improve the Site and our services;
+(3) to contact you to resolve problems;
+(4) to communicate with you about products and services offered by us and our selected partners;
+(5) to engage with third party service providers so that you can access and use the Site; and
+ 
+ 
+ 
+ 
+How We Collect and Use Site Data
+ 
+Sharing of Personal Data
+We will never sell, trade, or rent any Personal Data, Site Data, or any Anonymous Data that may contain Personal Data, to any third party.
+ 
+Cookies and Similar Technologies
+A cookie is a small piece of text that is sent to your web browser by the Site. The cookie helps the Site remember information about your visit, which makes your next visit to the Site easier and the Site more useful to you. We also use cookies for tracking and reporting purposes, to make the ads that you may see more relevant to you, and to count how many visitors we receive to a page on the Site. The information collected by cookies is used to enhance your experience with on the Site, for marketing analysis, for targeted and display advertising, and for quality improvement of the Site and our services. No personally identifiable information is collected or stored by Assembly during this process. We may use your IP address to identify your general location for traffic monitoring purposes. If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. You are not required to accept cookies, however, if your browser rejects our cookies you may not be able to use all of the Site functionality.
+ 
+Third Party Relationships
+Third party Links. The Site may contain links to other third party owned and/or operated websites and, where you request information from third party providers, we may transfer you directly to the websites of such third party providers. Assembly is not responsible for the privacy practices or the content of such third party websites. In some cases, you may be required to provide certain information to register or complete a transaction at such website. These third party websites have separate privacy and data collection practices and Assembly has no responsibility or liability relating to them. We do not endorse, nor are we responsible for the accuracy of, the privacy policies and/or terms and conditions of such third party website. These third party entities are independent third parties and are not affiliated with Assembly.
+Third party Offers. Assembly may provide you with the opportunity to receive special offers, products and/or services from third parties. Where you indicate the desire to receive certain offers, products or services from a third party during the applicable information collection process, your Personal Data that was provided during that information collection process will be shared with the applicable third party so that such third party may provide their products and/or services to you so that you do not have to complete another information collection form to purchase or receive that product or service. Clicking on any third party offers may add and place cookies on your computer prior to directing you to the applicable advertiser’s site. These third-parties have separate cookie polices and Assembly has no responsibility or liability relating to them. If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. You are not required to accept cookies, however, if your browser rejects our cookies you may not be able to use all of the Site functionality.
+Third party Technology/Software/Service/Solutions Providers. The Site may contain certain software technologies and services licensed from third party providers. Assembly may engage with certain third party services and solutions providers such as data hosting service providers, payment processing service providers, advertising service providers, and email marketing service providers. These third party providers have separate privacy and data collection practices and policies, and Assembly has no responsibility or liability relating to them. We do not endorse, nor are we responsible for the accuracy of the terms and conditions of any third party privacy policies. These third party entities are independent third parties and are not affiliated with Assembly.
+ 
+CloudFlare (Traffic Monitoring/Optimization Services); https://www.cloudflare.com/security-policy/
+Google Tag Manager (Traffic/Campaign Monitoring Services); https://policies.google.com/privacy
+Keen IO (Analytics Services); https://keen.io/privacy-policy/ 
+Keen (Traffic Monitoring/Optimization Services); https://keen.io/privacy-policy/
+Google Maps (Geolocation Services); https://policies.google.com/privacy
+Quantcast Measure (Traffic/Campaign Monitoring Services); https://www.quantcast.com/privacy/
+ComScore Analytics (Traffic/Campaign Monitoring Services); https://www.comscore.com/About-comScore/Privacy-Policy
+Customer.io (Email/Marketing Communication Services); https://customer.io/privacy-policy.html
+Sendgrid (Email/Marketing Communication Services); https://sendgrid.com/policies/privacy/
+DoubleClick (Advertising Services); https://policies.google.com/privacy
+Google Website Optimizer (Traffic Monitoring/Optimization Services); https://policies.google.com/privacy
+Adroll (Remarketing and Behavioral Targeting); https://www.adroll.com/about/privacy
+Perfect Audience (Remarketing and Behavioral Targeting); http://www.perfectaudience.com/privacy
+Facebook Remarketing (Remarketing and Behavioral Targeting); https://www.facebook.com/about/privacy/update
+Facebook Custom Audience (Remarketing and Behavioral Targeting); https://www.facebook.com/about/privacy/update
+ 
+Security of Data
+Assembly is committed to protecting the security of any Personal Data that is collected by Assembly. We use a variety of industry-standard security technologies and procedures to help protect any Personal Data from unauthorized access, use, or disclosure. Despite these measures, no method of transmission over the Internet, or method of electronic storage is 100% secure. Assembly cannot fully eliminate security risks associated with the collection and storage of any Personal Data, including without limitation, any mistakes and security breaches that may happen. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security. In the unlikely event of a data breach where your Personal Data has been compromised, Assembly will promptly notify you, the applicable authorities and supervisory authorities or data protection authorities.
+ 
+Data Retention Period
+ 
+Contact Information
+ 
+Assembly Technologies Inc. #200 – 1630 Store St. Victoria, BC V8W 1V3, Canada
+ 
+We reserve the right to limit or deny your request to view, update, or remove your Personal Data if you have failed to provide us with sufficient information to verify your identity. Changes to This Privacy Policy We reserve the right, in our sole discretion, to modify, update and change this Privacy Policy from time to time without prior notice to you. Notice regarding any Privacy Policy changes will be placed in a prominent location on the Site and will take effect immediately upon posting on the Site. Please check the Site periodically for any changes. Your continued use of the Site following the posting of changes to this Privacy Policy will constitute your acknowledgement and acceptance of any and all changes.
+Network
+Do you want to advertise on Facty Network? Let’s talk about it! Contact us.

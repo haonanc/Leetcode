@@ -1,0 +1,43 @@
+YouTube privacy guidelines
+YouTube privacy guidelines
+We're serious about protecting our users by addressing potential privacy concerns. Our privacy guidelines apply to all users across the world. In other words, while the video in question may not violate your country's privacy laws, it may still violate YouTube's privacy guidelines.
+How does YouTube determine if content should be removed for a privacy violation?
+For content to be considered for removal, an individual must be uniquely identifiable by image, voice, full name, government identification number, bank account number, contact information (e.g. home address, email address) or other uniquely identifiable information. We also take public interest, newsworthiness and consent into account when determining if content should be removed for a privacy violation. YouTube reserves the right to make the final determination of whether a violation of its privacy guidelines has occurred.
+What does uniquely identifiable mean?
+To be considered uniquely identifiable, there must be enough information in the video that allows others to recognise you. Please note that just because you can identify yourself within the video, it does not mean you are uniquely identifiable to others. A first name without additional context or a fleeting image, for example, would not likely qualify as uniquely identifiable.
+How YouTube's privacy process works
+If a privacy complaint is filed, YouTube may provide the uploader an opportunity to remove or edit the private information within their video. We issue notification of the potential violation and provide the uploader 48 hours to take action on the complaint. If the uploader removes the video during these 48 hours, the complaint filed will be closed. If the potential privacy violation remains on the site after 48 hours, the YouTube Team will then review the complaint.
+Our Privacy Complaint Process also accounts for cases that warrant urgent removal of contact or financial data.
+Reporting a privacy violation
+To file a privacy complaint, start the Privacy Complaint Process . As the complainant, your privacy is respected in this process. At no point will your identity or contact information be released to the uploader without your consent. Our communications to you about this process will be sent to the email address you provide to us. Add support@youtube.com to your spam filter to ensure you receive these messages.
+First-party claims are required.
+We do not accept claims made on behalf of third parties except in the following situations:
+the individual whose privacy is being violated does not have access to a computer
+the individual whose privacy is being violated is a vulnerable individual
+the claim is being made by the parent or legal guardian of the individual whose privacy is being violated
+the claim is being made by a legal representative for the individual whose privacy is being violated
+We will not accept privacy complaints filed on behalf of:
+other family members (e.g. husband, wife, cousin, brother, sister)
+co-workers or employees (individuals must submit a report themselves)
+a company
+Tips on filing a complete privacy complaint
+Please be clear and concise so that the YouTube Team can identify you within the video.
+Use time stamps to indicate only one or two places where you clearly appear in the video.
+In the description area, please specify what you are wearing or doing that differentiates you from others within the video.
+Make sure that you've included the video URL in your report. You are not required to submit a URL if you are reporting an entire channel.
+If you are reporting a comment made in the comments section of a video, please note this in the description area. Include the commenter's username in the username field.
+Receiving notice of a privacy violation
+YouTube may provide you, the uploader, an opportunity to remove or edit the private information within your video. In this case, we would email you about the potential violation and allow you 48 hours to take action on the complaint. If you remove the alleged violation from the site within the 48 hours, the complaint filed will then be closed. If the potential privacy violation remains on the site after 48 hours, the complaint will be reviewed by the YouTube Team.
+If we remove your video for a privacy violation, please do not upload another version featuring the same people. These individuals will likely file another privacy complaint or report you for harassment. We are serious about protecting our users and suspend accounts that violate people's privacy.
+How can I address the complaint?
+You can remove the reported content completely from the site.
+If someone's full name or other personal information is listed within the title, description or tags of your video, you can edit this by going to My Videos and clicking the Edit button on the video reported.
+You can blur the faces of individuals who appear in the videos.  
+Incomplete methods of removal are not acceptable, and include:
+Annotations, as they can be turned off at any time.
+Making a video private as the uploader can change the status from private to public at any time.
+Was this article helpful?
+Yes
+No
+Submit
+true

@@ -1,0 +1,177 @@
++ J. C. Penney Corporation, Inc.  Privacy Policy (rev. 08/01/17)
++  
++  
++  
++ When you interact with JCPenney, we collect information, including personal information, from you. Personal information is information that can be used or combined to identify you. For example, we may collect your:
++ • name;
++ • email address(es);
++ •   location information; and
++  
++  
++  
++  
++ • you make a purchase, return or exchange;
++ • you create/use an account on one of our websites (e.g. jcp.com, jcprewards.com, etc.);
++ • you sign up to receive coupons, sales alerts and promotional emails, or text messages;
++ • you join a loyalty program (e.g. JCPenney Rewards) or club;
++ • you participate in a contest, sweepstakes, promotion, survey or consumer research;
++ • you create or update a gift registry, or a save for later list;
++ • you submit a rating or review, or other user-generated content that may be posted to our website;
++ • you request customer service or contact us;
++ • you apply for or use a JCPenney Credit Card;
++ • you engage with JCPenney  on social media sites (e.g. Facebook, Twitter, Instagram, etc.);
++ • you view or click on a JCPenney advertisement;
++ • you enable location-based functionalities through your computer/mobile device, or when using the JCPenney mobile application;
++ • you use the scan ID/credit card functionality of the JCPenney mobile application or the mobile website;
++ • you use our in-store Wi-Fi network; or
++  
++  
++  
++ • type of device and device manufacturer;
++ • your device’s internet service provider, connection speed, and internet protocol (IP) address;
++ • device operating system,  and browser type, browser language, any plug-ins that you have installed on your browser;
++ • cookie information;
++ • the date;
++ • if online, click-stream data -  the website you came from, those you visit, and the items you click on during your session;
++ • information about Javascript objects on particular screens;
++ • the number of mouse clicks made on particular screens (or touches, if using a touch-screen device);
++ • if you consent, precise, real-time location information; 
++ • any unique device IDs and any unique IDs associated with advertising and analytics; 
++ • if using the mobile application scanning feature: time stamps, bar code or other information; and
++ • information about the way you use our mobile applications.
++  
++  
++ If you consent to using in-store guest Wi-Fi service, we automatically collect:
++ o    usage data (e.g. number of users by store, the websites visited while using the service);
++ o    session data (e.g. how long a user stays on the guest Wi-Fi service), device and browser data (e.g. type of device, device ID, type of browser, IP address); and
++  
++  
++  
++  
++  
++  
++  
++  
++ • to communicate with you about and complete purchase, return or exchange transactions;
++ • to provide or communicate with you about products or services;
++ • for marketing and promotional purposes, including direct mail, coupons, emails, mobile alerts, and serving advertisements;
++ • to provide interactive features of our websites and mobile applications, such as product ratings and reviews, share with a friend, find item in store, store ads, push notifications and store locator;
++ • to improve your in-store experience in conjunction with our use of wireless beacons;
++ • to provide proximity-based features to customers, such as advertising  and “buy online, pick-up in store;”
++ • to identify product and service preferences, so we can inform our customers and visitors of new or additional products, services and promotions of possible interest;
++ • to improve our websites, stores, mobile applications, customer service, and marketing efforts;
++ • to connect, enhance, and personalize our customers shopping experience across channels and devices;
++ • to pre-populate customer information within our websites and mobile application;
++ • to administer loyalty programs, contests, sweepstakes, promotions, surveys, and focus groups;
++ • to conduct research and analysis and perform other business activities as needed;
++ • to protect the security and integrity of our websites and our business; and
++  
++     
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++ updating your JCPenney contact information and preferences
++ If you have created a jcpenney.com account or a gift registry account/profile, you can update your information by signing back into your account or registry.  Or, to update or correct your name, address, telephone number, or email address, you may:
++ • email us at  privacy@jcpenneyeservices.com ,
++ • call us at 1.800.322.1189, or
++  
++ • accessing their information through their jcpenney.com account, or
++  
++  
++  
++ If you do not want to receive coupons and other promotional mail, or if you do not want to receive promotional email offers and updates from JCPenney, you may:
++ • email us at  privacy@jcpenneyeservices.com ,
++ • call us at 1.800.322.1189, or
++  
++  
++  
++  
++  
++ • call us at 1.800.322.1189, or
++  
++  
++  
++ • call us at 1.800.322.1189, or
++  
++  
++  
++ • calling us at 1.800.322.1189, or
++  
++  
++  
++ • for jcpenney.com: deny permission when asked if the website can track your physical location. To opt-out after initial permission is given, adjust your browser settings.
++ • for JCPenney’s mobile application: adjust the permission settings for your device, or uninstall the application.
++ • for JCPenney’s mobile website: deny permission when asked if the website can track your physical location.
++  
++  
++  
++ Google Analytics
++ •         To learn more about Google Analytics’ privacy practices and any opt-out choices it offers,  click here .
++ Adobe Analytics
++  
++  
++  
++  
++  
++ To learn more about interest-based advertising or to “opt-out” of interest based advertising programs from participating companies:
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++ If you believe you've identified a potential security vulnerability, please report it to us right away. We will investigate all reports and address appropriately.
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++  
++ If you identify any potential security issue, please send an email to IT-security@jcp.com with the following:
++   • A clear description of the issue, including the impact you believe it has to the user, JCPenney, and others.
++   • Specific reproduction steps including the environment used for testing (browsers, devices, tools, configuration) and any accounts used during testing.
++   • Your recommendations to resolve the issue.
++  
++  
++  
++  
++  
++  
++  

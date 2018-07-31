@@ -1,0 +1,83 @@
+Glenn Hegar
+Menu
+Menu
+Go Button
+Privacy and Security Policy
+The Comptroller of Public Accounts, its divisions, and its associated companies (CPA or “we”), values and protects the public's (your) privacy and places strict controls on the gathering and use of sensitive information and confidential information. Sensitive information and confidential information is not disclosed, made available, or otherwise used for purposes other than those specified at the time of collection, except with your consent or as authorized by law or regulation.
+Collection of Information
+The voluntary disclosure of sensitive information or confidential information to CPA, whether solicited or unsolicited, constitutes your consent to the collection and disclosure of the information by CPA for the purposes for which the information was disclosed to CPA, as was reasonably ascertainable from the nature and terms of the disclosure, including collection and disclosure for the purpose of validating your identity.
+Web Analytics Data
+CPA's websites collect and store information each time you access them to enable us to measure the total number of visitors, and certain non-personal statistical information. This helps us make our websites more accessible and useful to visitors.
+If you browse through our sites reading, printing, or downloading information, no sensitive information and no confidential information about you is collected.
+The information we collect when you visit CPA's sites consists of:
+The Internet Protocol (IP) address from which you are accessing the site(s)
+The domain name of the Internet Service Provider (ISP) you are using to access the site(s) (e.g. Comcast.net or TimeWarnerCable.com)
+The date and time you visited the site(s)
+The web pages or services you accessed at the site(s)
+CPA uses Google Analytics to measure traffic on our websites. Review the Google Analytics Terms of Use or learn more about how Google uses, collects, and processes analytics data . To prevent Google Analytics from recognizing return visits to our websites you may disable cookies in your Web browser.
+Some of CPA's sites may also use JavaScript to collect site traffic and activity, as well as to measure the performance of our servers and network. These scripts do not collect sensitive information or confidential information about you.
+Cookies, Pixels, and Other Digital Tracking Technologies
+To better serve you, CPA's sites may use cookies to enhance or customize your visit to the site. Cookies do not contain your sensitive information or confidential information.
+We may also use third-party advertising companies to deliver advertisements on our behalf. These companies may use anonymous cookies or other technologies to track information regarding your browsing history at Comptroller.Texas.Gov. Third-party advertising networks, such as Google AdWords and AdRoll, use this information to deliver ads to you on our behalf at other sites throughout the Internet, to track your response to advertisements, report on visitor interaction, and to measure the effectiveness of advertisements.
+Facebook provides certain features and tools, such as pixels, SDKs, and APIs that can send your browsing data to Facebook, including pages you visit and actions you take at Comptroller.Texas.Gov .  This tool allows us to personalize our ads based on the content you viewed on our site. We may also use Facebook technology to deliver interest-based ads using lists of email addresses that we have collected at Comptroller.Texas.Gov. We update these lists once a month so that we do not intentionally target our ads to users who have opted out of emails from CPA.
+Encryption
+CPA’s public facing websites and systems, as well as internal systems, have reasonable security measures in place to protect against the loss, misuse, and alteration of your data and information that is under our control. Interactive applications and forms that collect transaction payments, sensitive or confidential information are encrypted using privacy and security safeguards such as a Secure Socket Layer (SSL) session or similar technology.
+Appropriate computer, network, and Internet technical security controls at the employee and departmental level prevent unauthorized access to information voluntarily provided by you. Some of these security controls are: password and user identification verification, data encryption, confidential transmissions, secure storage areas, and audit trails. CPA's employees are educated regarding the requirements of working with sensitive and confidential information as well as the consequences of misuse.
+Email
+If you communicate with CPA by sending an email, your email address may be retained for further communication with you in connection with processing your request or as provided by law. Do not send any sensitive or confidential information in the body of, or as an attachment to, an electronic mail message unless the data is adequately encrypted. Data sent via email is not inherently secured or encrypted. Any information contained in an email message or attachment may be retained and stored by CPA pursuant to the applicable retention period or as provided by law and may be provided to other state agencies to better serve your needs.
+In addition, CPA collects the email addresses of those individuals who voluntarily provide their email address at Comptroller.Texas.gov and on other platforms, such as Facebook.
+Further, email addresses and other volunteered information may be used to send news, notices, and other information to those who request it on a strictly opt-in basis. Email addresses may also be used to serve interest-based ads on other platforms, such as Facebook.
+Social Media
+In the spirit of open, transparent government, CPA makes use of social media tools (e.g. Facebook, Twitter, YouTube, etc.) to keep the public informed of news, economic updates, and other announcements.
+Any comments or posts made to a social media forum maintained by CPA may be subject to release to the public as required by the Texas Public Information Act .
+Users of these social media services are bound by terms of service and user agreements for the platform.
+Disclosure of Information
+CPA gathers your information through lawful means. Any subsequent use of the information is limited to purposes consistent with the purpose(s) given at the time of collection. Texas law states that some information submitted or accessed by you may be subject to public disclosure under the Texas Public Information Act. However, there are limitations that protect your sensitive personal information (SPI) from inclusion with public records.
+You are responsible for protecting the confidentiality of any user ID, password, or PIN used to access CPA websites. If you give your user ID, password, or PIN to anyone else, they will be able to access your sensitive and confidential information.
+CPA does not sell or distribute your information to any non-governmental third party without your consent or as authorized by law or regulation. CPA's employees will only use sensitive and confidential information submitted by you on a need-to-know basis to provide information or services, or carry out the duties of the office.
+Further, we will not disclose information we collect from you to third parties without your permission except to the extent necessary including:
+To fulfill your requests for services;
+To protect ourselves from liability; or
+To respond to legal process or comply with law, or in connection with a merger, acquisition, or liquidation of the company.
+It is possible to opt-out of data collection by these third-parties by visiting:
+Request for Your Information
+With few exceptions, you have the right to request, receive, and review your information with CPA. You are also entitled to have us correct any information about you in our possession that may be incorrect.
+To request information from CPA, please submit your request via one of the methods listed below and ensure your request includes enough description and detail so we may accurately identify and locate your information.
+By mail:
+Austin, TX 78701
+Or email at open.records@cpa.texas.gov .
+If you require special accommodation pursuant to the Americans with Disabilities Act, please contact our Workplace Accommodations Coordinator at 512-475-3560 .
+Retention of Information
+Information collected by or provided to CPA will be retained and maintained as required by law or regulation such as Texas Government Code Section 441.180 et seq . Different types of information are required to be kept for different periods of time.
+CPA stores or uses sensitive and confidential information submitted by you only for the time necessary. Confidential information is destroyed via purging, magnetic degaussing/erasing, shredding, and/or other means of authorized confidential destruction when no longer required and to prevent unauthorized access or use of the data. Regularly scheduled archiving, purging, and proper disposal of records and information is a standard practice throughout CPA.
+Links to Non-CPA Websites
+CPA's websites contain links to other websites for your information and convenience. CPA has no control over the privacy practices or the content of such other websites. Please review the privacy information provided by these sites.
+The responsibility for the content and accuracy of information on sites accessed by linking from our websites rests with the entities providing the information. This includes any responsibility for updating information upon which visitors may rely.
+The inclusion of links from our sites to others does not imply any endorsement by CPA of any product, service, or vendor. Any mention of products, services, or vendors is for informational purposes only.
+Disclaimer and Limitation of Liability
+The information provided in this privacy policy should not be construed as giving business, legal, or other advice, or warranting as fail proof the security of information provided through our websites.
+Information on CPA's sites is public domain and may be copied and used as permitted by law, with the exception of pictures, official symbols, and service marked names and logos. While CPA attempts to maintain a high degree of accuracy, we will not be held liable for errors or omissions that may occur.
+CPA is not an operator of a website or online service directed at children under 13 years of age and does not knowingly collect sensitive and confidential information from children. Users are cautioned, however, that the collection of sensitive and confidential information via an interactive application or email will be treated as though it was submitted by an adult, and may, unless exempted from access by federal or state law, be subject to public access. CPA strongly encourages parents and teachers to be involved in children's Internet activities, and to provide guidance whenever children are asked to provide sensitive and confidential information online.
+Contact Us
+If you have questions, comments, or concerns about CPA's Privacy and Security Policy, please contact Information Security:
+By email at informationsecurity@cpa.texas.gov
+Austin, TX 78711-3528
+As a public agency, CPA understands the importance of maintaining your privacy and will make every attempt to maintain your trust and confidence regarding the collection and use of your sensitive and confidential information.
+This policy has been developed and is maintained in accordance with all applicable Texas and federal laws and regulations and will be updated from time to time. Please review this page frequently.
+Pursuant to Texas House Bill 855 (2015), CPA's websites are compatible with Microsoft Internet Explorer, Google Chrome, and Apple Safari.
+Glossary
+Application Programming Interface (API): a set of subroutine definitions, protocols, and tools for building application software. In general terms, it is a set of clearly defined methods of communication between various software components.
+Confidential Information: Information typically excepted from public disclosure, whether specified in law or through a decision by the Open Records division of the Texas Attorney General's office. This includes Sensitive Personal Information (SPI), as defined by Texas Business and Commerce Code Section 521 .
+Cookie: A small piece of data sent from a website and stored in the user's web browser while the user is browsing it.
+Internet Protocol (IP) Address: A unique string of numbers separated by periods that identifies each computer using the Internet Protocol to communicate over a network.
+Internet Service Provider (ISP): An organization that provides services for accessing, using, or participating in the Internet.
+JavaScript: An object-oriented computer programming language commonly used to create interactive effects within web browsers.
+Public Information: Information available to the public freely and without reservation. Such information requires no authentication and is freely distributable by all agency personnel.
+Regulated Information: Information typically controlled by federal or state regulation or other third-party agreement. This information may be confidential, sensitive, or public, but is subject to additional controls regarding its protection or disclosure.
+Secure Socket Layer (SSL): The standard security technology for establishing an encrypted link between a web server and a browser. This link ensures that all data passed between the web server and browsers remain private and integral.
+Sensitive Information: Information subject to public release under an open records request. The information should be vetted and verified before release. This includes Personal Identifying Information (PII), as defined by Texas Business and Commerce Code Section 521 .
+Software Development Kit (SDK): a set of software development tools that allows the creation of applications for a certain software package, software framework, hardware platform, computer system, video game console, operating system, or similar development platform.
+Required Applications:
+HB855 Browser Statement
+In 2015, the Texas Legislature passed House Bill 855, which requires state agencies to publish a list of the three most commonly used Web browsers on their websites. The Texas Comptroller’s most commonly used Web browsers are Google Chrome, Microsoft Internet Explorer and Apple Safari.
+We support:

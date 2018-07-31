@@ -1,0 +1,6 @@
+Privacy
+Ciuvo takes your privacy very seriously and adheres strictly to the rules of the Data Protection Act. No personal data will be collected or stored by Ciuvo during the use of the add-on. Our software ensures that your IP address is processed only in an anonymised form.
+The following data required for functionality are processed when using the add-on, but without any reference to personally identifiable information:
+Browser type and version
+Time
+the URL of a proposed site
